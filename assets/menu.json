@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "EN": "Home",
+        "TH": "หน้าหลัก",
+        "path": "/"
+    },
+    {
+        "id": 2,
+        "EN": "Place Orders",
+        "TH": "สั่งสินค้า",
+        "path": "/place-orders"
+    },
+    {
+        "id": 3,
+        "EN": "General Industries",
+        "TH": "อุตสาหกรรมทั่วไป",
+        "path": "/general-industries"
+    },
+    {
+        "id": 4,
+        "EN": "Product & Brochure",
+        "TH": "สินค้าและโบรชัวร์",
+        "path": "/product-brochure"
+    },
+    {
+        "id": 5,
+        "EN": "Online Tools",
+        "TH": "เครื่องมือออนไลน์",
+        "path": "/online-tools"
+    },
+    {
+        "id": 6,
+        "EN": "Knowledge Center",
+        "TH": "สาระน่ารู้",
+        "path": "/knowledge-center"
+    },
+    {
+        "id": 7,
+        "EN": "About",
+        "TH": "เกี่ยวกับเรา",
+        "path": "/about"
+    },
+    {
+        "id": 8,
+        "EN": "Contact",
+        "TH": "ติดต่อเรา",
+        "path": "/contact"
+    }
+]
