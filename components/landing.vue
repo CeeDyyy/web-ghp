@@ -8,19 +8,16 @@
       <v-container class="text-center">
         <v-responsive class="mx-auto" width="500">
           <h1 class="text-h2 font-weight-bold text-white">
-            WE ARE<br />UPK ASIA
+            {{landing.title}}<br />UPK ASIA
           </h1>
 
           <p class="mt-4 mb-10 text-white">
-            We are specialized in processes equipment for serving in General
-            industries. We are engineering background do supply better products
-            solution which reliability and quality to customers in Thailand, Lao
-            and Cambodia.
+            {{landing.content}}
           </p>
           <v-btn
             elevation="2"
             class="bg-yellow-darken-1 text-green-darken-4 font-weight-bold"
-            >LEARN MORE ABOUT US</v-btn
+            >{{landing.button}}</v-btn
           >
         </v-responsive>
       </v-container>
@@ -34,7 +31,7 @@ import Landing from "../assets/landing.json";
 export default {
   data() {
     return {
-      landing: Landing,
+      landing: Landing.EN,
     };
   },
 };

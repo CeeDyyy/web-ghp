@@ -3,7 +3,9 @@
   <v-container>
     <Services />
     <GeneralIndustriesVue>
-      <h2 class="d-flex justify-center mb-6">Involved Industries</h2>
+      <h2 class="d-flex justify-center text-h3 font-weight-medium mt-16 mb-12">
+        Involved Industries
+      </h2>
     </GeneralIndustriesVue>
   </v-container>
 </template>

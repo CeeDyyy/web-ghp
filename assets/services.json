@@ -1,0 +1,48 @@
+{
+    "EN": [
+        {
+            "id": 11,
+            "icon": "mdi-pencil-ruler",
+            "color": "brown-lighten-1",
+            "title": "Design",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "id": 12,
+            "icon": "mdi-store",
+            "color": "blue-grey-lighten-1",
+            "title": "Distribute",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "id": 13,
+            "icon": "mdi-alpha-s-circle",
+            "color": "pink-lighten-1",
+            "title": "Solution",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+    ],
+    "TH": [
+        {
+            "id": 21,
+            "icon": "mdi-pencil-ruler",
+            "color": "brown-lighten-1",
+            "title": "ออกแบบ",
+            "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์"
+        },
+        {
+            "id": 22,
+            "icon": "mdi-store",
+            "color": "blue-grey-lighten-1",
+            "title": "จำหน่าย",
+            "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์"
+        },
+        {
+            "id": 23,
+            "icon": "mdi-alpha-s-circle",
+            "color": "pink-lighten-1",
+            "title": "โซลูชัน",
+            "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์"
+        }
+    ]
+}
