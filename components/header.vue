@@ -1,14 +1,16 @@
 <template>
-  <v-app-bar>
-    <v-toolbar-title @click="$router.push('/')"> UPKASIA </v-toolbar-title>
+  <v-app-bar class="bg-yellow-darken-1">
+    <v-toolbar-title>
+      <img src="@/assets/logo.png" height="40" @click="$router.push('/')" />
+    </v-toolbar-title>
     <v-spacer></v-spacer>
     <v-btn icon>
-      <v-icon color="#003d2b">mdi-magnify</v-icon>
+      <v-icon color="green-darken-4">mdi-magnify</v-icon>
     </v-btn>
-    <v-btn elevation="2" @click="toggleLng()" color="#003d2b">lng</v-btn>
+    <v-btn elevation="2" @click="toggleLng()" class="bg-amber">lng</v-btn>
     <template v-slot:extension>
       <v-spacer></v-spacer>
-      <v-tabs color="#fad105">
+      <v-tabs color="green-darken-4 font-weight-bold" class="text-white">
         <template v-for="item in menu" :key="item.id">
           <v-tab v-if="en" :to="item.path">
             {{ item.EN }}
