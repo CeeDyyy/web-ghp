@@ -1,10 +1,12 @@
 <template>
   <v-app id="inspire">
-    <slot>General Industries</slot>
+    <h2 class="d-flex justify-center text-h3 font-weight-medium mt-16 mb-12">
+      {{ industries.title }}
+    </h2>
     <v-main>
       <v-container>
         <v-row>
-          <v-col v-for="item in industries" :key="item.id" cols="12" sm="4">
+          <v-col v-for="item in industries.industries" :key="item.id" cols="12" sm="4">
             <v-hover v-slot="{ isHovering, props }">
               <v-card
                 class="mx-auto"
@@ -26,17 +28,26 @@
                       "
                       style="height: 100%"
                     >
-                      Learn more
+                      {{ industries.learnmore }}
                     </div>
                   </v-expand-transition>
                 </v-img>
 
                 <v-card-text class="pt-6">
-                  <div class="text-h6 font-weight-light text-green-darken-4 mb-2">
+                  <div
+                    class="text-h6 font-weight-light text-green-darken-4 mb-2"
+                  >
                     {{ item.title }}
                   </div>
 
-                  <div class="text-subtitle-2 font-weight-light text-grey-darken-2 mb-2">
+                  <div
+                    class="
+                      text-subtitle-2
+                      font-weight-light
+                      text-grey-darken-2
+                      mb-2
+                    "
+                  >
                     {{ item.content }}
                   </div>
                 </v-card-text>
@@ -51,13 +62,29 @@
 
 <script>
 import Industries from "/assets/general-industries.json";
+import { useLanguagesStore } from "../stores/languages";
 
 export default {
   name: "GeneralIndustries",
   data() {
     return {
       industries: Industries.EN,
+      language: useLanguagesStore(),
     };
+  },
+  computed: {
+    getLng() {
+      return this.language.$state.language;
+    },
+  },
+  watch: {
+    getLng(newValue) {
+      if (newValue == "EN") {
+        this.industries = Industries.EN;
+      } else {
+        this.industries = Industries.TH;
+      }
+    },
   },
 };
 </script>

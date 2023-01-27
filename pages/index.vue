@@ -2,11 +2,7 @@
   <LandingVue />
   <v-container>
     <Services />
-    <GeneralIndustriesVue>
-      <h2 class="d-flex justify-center text-h3 font-weight-medium mt-16 mb-12">
-        Involved Industries
-      </h2>
-    </GeneralIndustriesVue>
+    <GeneralIndustriesVue />
   </v-container>
 </template>
 

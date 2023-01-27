@@ -8,17 +8,15 @@
       <v-container class="text-center">
         <v-responsive class="mx-auto" width="500">
           <h1 class="text-h2 font-weight-bold text-white">
-            {{landing.title}}<br />UPK ASIA
+            {{ landing.title }}
+            <br />UPK ASIA
           </h1>
 
-          <p class="mt-4 mb-10 text-white">
-            {{landing.content}}
-          </p>
-          <v-btn
-            elevation="2"
-            class="bg-yellow-darken-1 text-green-darken-4 font-weight-bold"
-            >{{landing.button}}</v-btn
-          >
+          <p class="mt-4 mb-10 text-white">{{ landing.content }}</p>
+
+          <v-btn elevation="2" class="bg-yellow-darken-1 text-green-darken-4 font-weight-bold">
+            {{ landing.button }}
+          </v-btn>
         </v-responsive>
       </v-container>
     </v-parallax>
@@ -27,12 +25,28 @@
 
 <script>
 import Landing from "../assets/landing.json";
+import { useLanguagesStore } from "../pages/stores/languages";
 
 export default {
   data() {
     return {
       landing: Landing.EN,
+      language: useLanguagesStore(),
     };
+  },
+  computed: {
+    getLng() {
+      return this.language.$state.language;
+    }
+  },
+  watch: {
+    getLng(newValue) {
+      if(newValue == "EN"){
+        this.landing = Landing.EN
+      } else {
+        this.landing = Landing.TH
+      }
+    },
   },
 };
 </script>

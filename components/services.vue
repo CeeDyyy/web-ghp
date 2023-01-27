@@ -1,9 +1,9 @@
 <template>
   <h2 class="d-flex justify-center text-h3 font-weight-medium mt-10 mb-6">
-    Our Services
+    {{ services.title }}
   </h2>
   <v-row class="my-6">
-    <v-col v-for="item in services" :key="item.id" cols="12" sm="4">
+    <v-col v-for="item in services.services" :key="item.id" cols="12" sm="4">
       <v-container class="text-center px-16" height="200">
         <v-avatar :color="item.color" size="62">
           <v-icon x-large>{{ item.icon }}</v-icon>
@@ -21,12 +21,28 @@
 
 <script>
 import Services from "../assets/services.json";
+import { useLanguagesStore } from "../pages/stores/languages";
 
 export default {
   data() {
     return {
       services: Services.EN,
+      language: useLanguagesStore(),
     };
+  },
+  computed: {
+    getLng() {
+      return this.language.$state.language;
+    },
+  },
+  watch: {
+    getLng(newValue) {
+      if (newValue == "EN") {
+        this.services = Services.EN;
+      } else {
+        this.services = Services.TH;
+      }
+    },
   },
 };
 </script>

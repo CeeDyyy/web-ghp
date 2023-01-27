@@ -7,12 +7,14 @@
     <v-btn icon>
       <v-icon color="green-darken-4">mdi-magnify</v-icon>
     </v-btn>
-    <v-btn elevation="2" @click="toggleLng()" class="bg-amber">lng</v-btn>
+    <v-btn elevation="2" @click="changeLanguage()" class="bg-amber">
+      {{ lng }}
+    </v-btn>
     <template v-slot:extension>
       <v-spacer></v-spacer>
       <v-tabs color="green-darken-4 font-weight-bold" class="text-white">
         <template v-for="item in menu" :key="item.id">
-          <v-tab v-if="en" :to="item.path">
+          <v-tab v-if="language.$state.language == 'EN'" :to="item.path">
             {{ item.EN }}
           </v-tab>
           <v-tab v-else :to="item.path">
@@ -26,17 +28,20 @@
 
 <script>
 import Menu from "../assets/menu.json";
+import { useLanguagesStore } from "../pages/stores/languages";
 
 export default {
   data() {
     return {
       menu: Menu,
-      en: true,
+      lng: "TH",
+      language: useLanguagesStore(),
     };
   },
   methods: {
-    toggleLng() {
-      this.en = !this.en;
+    changeLanguage() {
+      this.language.change(this.lng);
+      this.lng == "EN" ? (this.lng = "TH") : (this.lng = "EN");
     },
   },
 };
