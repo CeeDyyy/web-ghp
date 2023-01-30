@@ -7,9 +7,9 @@
     },
     {
         "id": 2,
-        "EN": "Place Orders",
+        "EN": "Orders",
         "TH": "สั่งสินค้า",
-        "path": "/place-orders"
+        "path": "/orders"
     },
     {
         "id": 3,

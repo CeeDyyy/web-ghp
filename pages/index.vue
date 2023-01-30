@@ -3,6 +3,7 @@
   <v-container>
     <Services />
     <GeneralIndustriesVue />
+    <h1 ref="bottom">Bottom</h1>
   </v-container>
 </template>
 
@@ -17,6 +18,12 @@ export default {
     GeneralIndustriesVue,
     LandingVue,
     ServicesVue,
+  },
+  methods: {
+    scrollToBottom() {
+      this.$refs["bottom"].scrollIntoView({ behavior: "smooth" });
+      console.log("asd");
+    },
   },
 };
 </script>

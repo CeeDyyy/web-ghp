@@ -1,8 +1,8 @@
 <template>
   <v-app id="inspire">
-    <h2 class="d-flex justify-center text-h3 font-weight-medium mt-16 mb-12">
+    <h1 class="d-flex justify-center text-h3 font-weight-medium mt-16 mb-12">
       {{ industries.title }}
-    </h2>
+    </h1>
     <v-main>
       <v-container>
         <v-row>

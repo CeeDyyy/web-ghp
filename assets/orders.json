@@ -1,0 +1,38 @@
+{
+    "EN": {
+        "title": "Orders",
+        "subtitle": "We provide Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "pump": {
+            "title": "PUMP",
+            "subtitle": "Purchase good quality pump ~~~",
+            "img": "https://images.unsplash.com/photo-1639600993675-2281b2c939f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
+            "url" : "https://docs.google.com/forms/d/e/1FAIpQLScnXonxoDYCLhP4yJ4oT_WhY5PwjYkcteORPnnf5WiwILkvBQ/viewform"
+        },
+        "agitator": {
+            "title": "AGITATOR",
+            "subtitle": "Purchase good quality agitator ~~~",
+            "img": "https://images.unsplash.com/photo-1554783703-701c3c39e5fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+            "url" : "https://docs.google.com/forms/d/e/1FAIpQLScEZ8SNExW9KXVyRjZgnuWAftklvEuQIYPpbxz1-v2I2etl1Q/viewform"
+        },
+        "detail" : "More Detail",
+        "order" : "Order"
+    },
+    "TH": {
+        "title": "สั่งซื้อ",
+        "subtitle": "พวกเรา พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต",
+        "pump": {
+            "title": "ปั๊ม",
+            "subtitle": "สั่งซื้อปั๊มคุณภาพ ~~~",
+            "img": "https://images.unsplash.com/photo-1639600993675-2281b2c939f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
+            "url" : "https://docs.google.com/forms/d/e/1FAIpQLScnXonxoDYCLhP4yJ4oT_WhY5PwjYkcteORPnnf5WiwILkvBQ/viewform"
+        },
+        "agitator": {
+            "title": "ใบกวน",
+            "subtitle": "สั่งซื้อใบกวนคุณภาพ ~~~",
+            "img": "https://images.unsplash.com/photo-1554783703-701c3c39e5fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+            "url" : "https://docs.google.com/forms/d/e/1FAIpQLScEZ8SNExW9KXVyRjZgnuWAftklvEuQIYPpbxz1-v2I2etl1Q/viewform"
+        },
+        "detail" : "รายละเอียด",
+        "order" : "สั่งสินค้า"
+    }
+}
