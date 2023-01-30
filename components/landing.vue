@@ -1,7 +1,7 @@
 <template>
   <section>
     <v-parallax
-      class="d-flex align-center justify-center text-center mt-n14"
+      class="d-flex align-center justify-center mt-n14"
       src="https://images.unsplash.com/photo-1547895749-888a559fc2a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80"
       height="100vh"
     >
@@ -14,12 +14,18 @@
 
           <p class="mt-4 mb-10 text-white">{{ landing.content }}</p>
 
-          <v-btn elevation="2" class="bg-yellow-darken-1 text-green-darken-4 font-weight-bold">
+          <v-btn
+            elevation="2"
+            variant="flat"
+            class="bg-yellow-darken-1 text-green-darken-4 font-weight-bold"
+            @click="scrollToBottom"
+          >
             {{ landing.button }}
           </v-btn>
         </v-responsive>
       </v-container>
     </v-parallax>
+    <div ref="hiddenElement" style="position: absolute; top: 95vh"></div>
   </section>
 </template>
 
@@ -37,15 +43,20 @@ export default {
   computed: {
     getLng() {
       return this.language.$state.language;
-    }
+    },
   },
   watch: {
     getLng(newValue) {
-      if(newValue == "EN"){
-        this.landing = Landing.EN
+      if (newValue == "EN") {
+        this.landing = Landing.EN;
       } else {
-        this.landing = Landing.TH
+        this.landing = Landing.TH;
       }
+    },
+  },
+  methods: {
+    scrollToBottom() {
+      this.$refs["hiddenElement"].scrollIntoView({ behavior: "smooth" });
     },
   },
 };
