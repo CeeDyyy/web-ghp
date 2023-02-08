@@ -2,10 +2,12 @@
   <div>
     <v-parallax
       class="d-flex justify-center"
+      :class="smAndUp ? 'align-center mt-n16' : 'pt-10'"
       src="https://images.unsplash.com/photo-1524514587686-e2909d726e9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      :height="smAndUp ? '100vh' : '100%'"
     >
       <v-container>
-        <h1 class="d-flex justify-center text-h3 text-white mt-16">
+        <h1 class="d-flex justify-center text-h3 text-white">
           {{ orders.title }}
         </h1>
         <v-divider
@@ -27,9 +29,10 @@
                 :detail="orders.detail"
                 :order="orders.order"
                 :url="orders.pump.url"
+                :details="orders.pump.details"
               />
             </v-col>
-            <v-divider vertical color="white" class="d-none d-sm-flex"/>
+            <v-divider vertical color="white" class="d-none d-sm-flex" />
             <v-col cols="12" sm="6">
               <OrderVue
                 :title="orders.agitator.title"
@@ -38,25 +41,32 @@
                 :detail="orders.detail"
                 :order="orders.order"
                 :url="orders.agitator.url"
+                :details="orders.agitator.details"
               />
             </v-col>
           </v-row>
         </v-container>
       </v-container>
     </v-parallax>
-    <v-sheet> asd </v-sheet>
   </div>
 </template>
 
 <script>
+import { useDisplay } from "vuetify";
 import Orders from "/assets/orders.json";
 import { useLanguagesStore } from "../stores/languages";
-import OrderVue from "../../components/order.vue";
+import OrderVue from "./order.vue";
 
 export default {
   name: "Orders",
   components: {
     OrderVue,
+  },
+  setup() {
+    // Destructure only the keys we want to use
+    const { smAndUp } = useDisplay();
+
+    return { smAndUp };
   },
   data() {
     return {

@@ -26,6 +26,7 @@
             variant="outlined"
             class="bg-transparent text-white font-weight-bold mt-3 mr-sm-3"
             min-width="9rem"
+            @click="expand = !expand"
           >
             {{ detail }}
           </v-btn>
@@ -42,6 +43,27 @@
           </v-btn>
         </div>
       </v-container>
+
+      <v-expand-transition>
+        <div v-if="expand">
+          <v-card class="ma-4 text-no-wrap">
+            <!-- <v-list :items="details" density="compact" max-height="350" class="text-wrap"></v-list> -->
+            <v-list density="compact" max-height="350">
+              <v-list-item
+                class="text-wrap"
+                v-for="(item, index) in details"
+                :key="index"
+              >
+                <v-list-subheader
+                  v-if="index == 0 || index == details.length - 1"
+                  v-text="item"
+                ></v-list-subheader>
+                <v-list-item-title v-else v-text="item"></v-list-item-title>
+              </v-list-item>
+            </v-list>
+          </v-card>
+        </div>
+      </v-expand-transition>
     </v-col>
   </v-row>
 </template>
@@ -49,6 +71,12 @@
 <script>
 export default {
   name: "Order",
-  props: ["title", "subtitle", "img", "detail", "order", "url"],
+  props: ["title", "subtitle", "img", "detail", "order", "url", "details"],
+  data() {
+    return {
+      expand: false,
+      items: ["Group #1", "Item #1", "Item #2", "Item #3"],
+    };
+  },
 };
 </script>
