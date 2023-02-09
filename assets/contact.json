@@ -1,0 +1,42 @@
+{
+    "EN": {
+        "title": "CONTACT US",
+        "phone": {
+            "title": "Phone",
+            "contents": [
+                "Tel: (+662) 914-7984 Fax: (+662) 914-7985",
+                "Sales: (+66) 84-438-2664 Amornwan (Kung)",
+                "Engineer: (+66) 82-280-8818 Pakapong",
+                "Managing Director: (+66) 81-827-2664 Thavorn"
+            ]
+        },
+        "location": {
+            "title": "Head Office",
+            "contents": [
+                "UPK ASIA ENGINEERING CO.,LTD.",
+                "28/2 Ninitmai Rd., Minburi, Minburi, Bangkok, 10510, Thailand."
+            ],
+            "button": "View on Google Map"
+        }
+    },
+    "TH": {
+        "title": "ติดต่อเรา",
+        "phone": {
+            "title": "โทรศัพท์",
+            "contents": [
+                "Tel: (+662) 914-7984 Fax: (+662) 914-7985",
+                "Sales: (+66) 84-438-2664 อมรวรรณ (กุ้ง)",
+                "Engineer: (+66) 82-280-8818 ภคพงษ์",
+                "Managing Director: (+66) 81-827-2664 ถาวร"
+            ]
+        },
+        "location": {
+            "title": "สำนักงานใหญ่",
+            "contents": [
+                "บริษัท ยู พี เค เอเซีย เอ็นจิเนียริ่ง จำกัด",
+                "28/2 ถนนนิมิตใหม่ เเขวงมีนบุรี เขตมีนบุรี กรุงเทพฯ 10510"
+            ],
+            "button": "ดูบน Google Map"
+        }
+    }
+}
