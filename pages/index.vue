@@ -2,8 +2,9 @@
   <LandingVue />
   <v-container>
     <Services />
-    <GeneralIndustriesVue />
-    <h1 ref="bottom">Bottom</h1>
+    <div class="mx-lg-16 px-lg-16">
+      <GeneralIndustriesVue />
+    </div>
   </v-container>
 </template>
 
@@ -18,12 +19,6 @@ export default {
     GeneralIndustriesVue,
     LandingVue,
     ServicesVue,
-  },
-  methods: {
-    scrollToBottom() {
-      this.$refs["bottom"].scrollIntoView({ behavior: "smooth" });
-      console.log("asd");
-    },
   },
 };
 </script>
