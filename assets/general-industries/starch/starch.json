@@ -1,0 +1,84 @@
+{
+    "EN": {
+        "title": "General Industries",
+        "subtitle": "Starch",
+        "fab": [
+            "Food and beverage production relies on our pumping and mixing solutions. Special ",
+            "pumps",
+            " and agitators have been developed for sugar, starch, and sweetener production. Separation equipment is often used in beverage manufacturing and our process technologies support purification and concentration."
+        ],
+        "firstcontent": [
+            "The Process of Tapioca Starch ProductionOne kilogram of tapioca starch requires 4.4 kilograms of fresh cassava roots at its starch content of 25%.In Thailand, the large-scale processing facilities with advanced processing machines and technology have been replacing those primitive and small-scale factories. According to the studies, the processing methods could be divided into two processes; traditional and modern.",
+            "Their details are as follows:",
+            "The traditional process, usually practiced in the small-scale factories, is able to separate starch from fresh cassava roots by crushing and then submerging the cassava under the water. The starch made through this process is inferior in quality.",
+            "The process of this method has 9 steps as follows:"
+        ],
+        "ninesteps": [
+            "Weigh fresh cassava roots to determine starch percentage.",
+            "Chop out the tails connected along with the roots before putting in the peeling devices.",
+            "Remove the peel and steep them in the cleansing well.",
+            "Put the clean ones in the chopper and grinder. Grind until they becomes fine particles and sediment them in the water. In this step, they appear as the slurry mix of starch, water, and fiber.",
+            "Filter the slurry to separate starch slurry from the fiber, however, the fiber still has some starch content that can be used as animal food.",
+            "Sediment the slurry in the wooden pail.",
+            "Dry the wet cake under the sun light on the yard.",
+            "Use the grindstone to grind the completely dried cake.",
+            "Pack in the bag."
+        ],
+        "secondcontent": [
+            "on numbers of highly efficient equipment and machines; Grinding the starch with the high-speed Rasper. Then extract the protein by the machine called “Decanter”. Separated the water by the “Centrifuge”. Dry the cake in the flash dryer. This process requires only short period of time and provides superior quality of starch.",
+            "The process may be described into 8 steps as follows:"
+        ],
+        "eightsteps": [
+            "Weigh the fresh cassava roots to determine the starch percentage.",
+            "Remove sand and impurity in the rotary screener.",
+            "Put it into the peeling-and-cleansing device, then chop out root tails.",
+            "Put the fresh clean cassava into the Rasper and then Decantor to remove protein.",
+            "Pass the slurry through the screen to remove fiber. Fiber is sun-dried and sold out for animal feed application.",
+            "Separate the fine fiber and impurity by “Centrifuge”.",
+            "Dry out the starch by passing it through the hot-aired dryer column.",
+            "Pass the starch through the sifter and pack the fine powder into the sacks for sale."
+        ],
+        "credit": "Credit: "
+    },
+    "TH": {
+        "title": "อุตสาหกรรมทั่วไป",
+        "subtitle": "อุตสาหกรรมแป้ง",
+        "fab": [
+            "ขั้นตอนการผลิตอาหาร และเครื่องดื่ม จำเป็นต้องใช้ระบบการสูบส่ง (pumping) และการผสม (mixing) ด้วย",
+            "ปั๊ม",
+            " และใบกวน พิเศษ ซึ่งออกแบบมาเพื่อขบวนการผลิตน้ำตาล แป้ง และสารหวาน ในอุตสาหกรรมเครื่องดื่มนั้นมีการใช้เครื่องจักรแยก (separation equipment) และเทคโนโลยีการผลิตของเราช่วยตอบโจทย์ผลิตภัณฑ์ที่มีความบริสุทธิ (purification) และการการทำเข้มข้น (concentration) ตามความต้องการของลูกค้า"
+        ],
+        "firstcontent": [
+            "The Process of Tapioca Starch ProductionOne kilogram of tapioca starch requires 4.4 kilograms of fresh cassava roots at its starch content of 25%.In Thailand, the large-scale processing facilities with advanced processing machines and technology have been replacing those primitive and small-scale factories. According to the studies, the processing methods could be divided into two processes; traditional and modern.",
+            "Their details are as follows:",
+            "The traditional process, usually practiced in the small-scale factories, is able to separate starch from fresh cassava roots by crushing and then submerging the cassava under the water. The starch made through this process is inferior in quality.",
+            "The process of this method has 9 steps as follows:"
+        ],
+        "ninesteps": [
+            "Weigh fresh cassava roots to determine starch percentage.",
+            "Chop out the tails connected along with the roots before putting in the peeling devices.",
+            "Remove the peel and steep them in the cleansing well.",
+            "Put the clean ones in the chopper and grinder. Grind until they becomes fine particles and sediment them in the water. In this step, they appear as the slurry mix of starch, water, and fiber.",
+            "Filter the slurry to separate starch slurry from the fiber, however, the fiber still has some starch content that can be used as animal food.",
+            "Sediment the slurry in the wooden pail.",
+            "Dry the wet cake under the sun light on the yard.",
+            "Use the grindstone to grind the completely dried cake.",
+            "Pack in the bag."
+        ],
+        "secondcontent": [
+            "on numbers of highly efficient equipment and machines; Grinding the starch with the high-speed Rasper. Then extract the protein by the machine called “Decanter”. Separated the water by the “Centrifuge”. Dry the cake in the flash dryer. This process requires only short period of time and provides superior quality of starch.",
+            "The process may be described into 8 steps as follows:"
+        ],
+        "eightsteps": [
+            "Weigh the fresh cassava roots to determine the starch percentage.",
+            "Remove sand and impurity in the rotary screener.",
+            "Put it into the peeling-and-cleansing device, then chop out root tails.",
+            "Put the fresh clean cassava into the Rasper and then Decantor to remove protein.",
+            "Pass the slurry through the screen to remove fiber. Fiber is sun-dried and sold out for animal feed application.",
+            "Separate the fine fiber and impurity by “Centrifuge”.",
+            "Dry out the starch by passing it through the hot-aired dryer column.",
+            "Pass the starch through the sifter and pack the fine powder into the sacks for sale."
+        ],
+        "credit": "เครดิต: "
+    }
+}

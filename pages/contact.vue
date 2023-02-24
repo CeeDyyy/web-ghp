@@ -90,7 +90,7 @@
 
 <script>
 import Contact from "/assets/contact.json";
-import { useLanguagesStore } from "./stores/languages";
+import { useLanguagesStore } from "/pages/stores/languages";
 export default {
   data() {
     return {

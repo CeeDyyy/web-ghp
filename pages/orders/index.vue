@@ -54,7 +54,7 @@
 <script>
 import { useDisplay } from "vuetify";
 import Orders from "/assets/orders.json";
-import { useLanguagesStore } from "../stores/languages";
+import { useLanguagesStore } from "/pages/stores/languages";
 import OrderVue from "./order.vue";
 
 export default {

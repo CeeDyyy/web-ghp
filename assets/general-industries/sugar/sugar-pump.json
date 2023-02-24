@@ -1,0 +1,22 @@
+{
+    "EN": {
+        "title": "General Industries",
+        "sugar": "Pump",
+        "subsugar": "Pumps in sugar industry",
+        "content": "Sulzer pumps are widely used in sugar industries. Being able to provide solution for each individual process including Washing, Milling, Diffusion, Purification, Evaporation, Crystallization and Power Station.",
+        "headsolution": "Our Solutions to your process",
+        "firstsolution": "Abrasion/corrosion/cavitation resistance material for both pump housing and impeller",
+        "secondsolution": ["Sulzer’s non-clogging closed or vortex ","open impeller"," pump, the key solution to pumping liquid with large solid particle and long fiber. (Up to 110 mm diameter solid particle)"],
+        "thirdsolution": ["Sulzer’s ","Dynamic seal"]
+    },
+    "TH": {
+        "title": "อุตสาหกรรมทั่วไป",
+        "sugar": "ปั๊ม",
+        "subsugar": "ปั๊มในอุตสาหกรรมน้ำตาล",
+        "content": "ปั๊มของ Sulzer นั้นถูกใช้งานอย่างแพร่หลายในอตสาหกรรมน้ำตาลเนื่องจากปั๊มของเราตอบโจทย์การใช้งานที่เป็นปัญหายุ่งยากในกระบวนการเช่น Washing, Milling, Diffusion, Purification, Evaporation, Crystallization และ การผลิตไฟฟ้า",
+        "headsolution": "ทางออกของ Sulzer",
+        "firstsolution": "มีวัสดุทนการกัดกร่อนจากสารเคมี ทนการสึกกร่อนจากของแข็งหรือการเกิด cavitation สำหรับทั้งเสื้อปั๊มและใบ",
+        "secondsolution": ["","ใบพัดแบบเปิด","ของ Sulzer ที่ออกแบบมาให้สามารถสูบกากและเส้นใยขนาดยาวและอนุภาคของแข็งขนาดใหญ่ที่ปนมากับของเหลวได้"],
+        "thirdsolution": ["","ไดนามิคซีล"]
+    }
+}

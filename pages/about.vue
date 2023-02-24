@@ -158,7 +158,7 @@
 
 <script>
 import About from "/assets/about.json";
-import { useLanguagesStore } from "./stores/languages";
+import { useLanguagesStore } from "/pages/stores/languages";
 export default {
   data() {
     return {

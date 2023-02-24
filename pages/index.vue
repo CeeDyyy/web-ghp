@@ -2,15 +2,7 @@
   <LandingVue />
   <v-container>
     <Services />
-    <v-row>
-      <v-col cols="12" lg="2"> </v-col>
-
-      <v-col cols="12" lg="8">
-        <GeneralIndustriesVue />
-      </v-col>
-
-      <v-col cols="12" lg="2"> </v-col>
-    </v-row>
+    <GeneralIndustriesVue />
   </v-container>
 </template>
 

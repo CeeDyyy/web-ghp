@@ -1,0 +1,40 @@
+{
+    "EN": {
+        "title": "General Industries",
+        "subtitle": "Biofuels",
+        "content": "Biofuels from renewable sources show great potential as sustainable transportation fuel. Based on our experience in demanding processes, we work with customers to develop advanced pumping, mixing, and distillation solutions for the production of biofuels, from pilot to commercial-scale installations",
+        "link": [
+            {
+                "text": "Mass Transter Technology",
+                "url": "sulzer.com/-/media/files/products/separation-technology/distillation-and-absorption/brochures/sulzer_mtt_overall_brochure.ashx?la=en"
+            },
+            {
+                "text": "Process pump and Equipment for Biofuels Applications.",
+                "url": "sulzer.com/-/media/files/products/pumps/single-stage-pumps/brochures/processpumpsandequipmentforbiofuels_e10076.ashx?la=en"
+            },
+            {
+                "text": "Process Technology",
+                "url": "sulzer.com/-/media/files/products/process-techology/processes-and-applications/brochures/process_plants.ashx?la=en"
+            }
+        ]
+    },
+    "TH": {
+        "title": "อุตสาหกรรมทั่วไป",
+        "subtitle": "อุตสาหกรรมน้ำมันชีวภาพ",
+        "content": "Biofuels from renewable sources show great potential as sustainable transportation fuel. Based on our experience in demanding processes, we work with customers to develop advanced pumping, mixing, and distillation solutions for the production of biofuels, from pilot to commercial-scale installations",
+        "link": [
+            {
+                "text": "Mass Transter Technology",
+                "url": "sulzer.com/-/media/files/products/separation-technology/distillation-and-absorption/brochures/sulzer_mtt_overall_brochure.ashx?la=en"
+            },
+            {
+                "text": "Process pump and Equipment for Biofuels Applications.",
+                "url": "sulzer.com/-/media/files/products/pumps/single-stage-pumps/brochures/processpumpsandequipmentforbiofuels_e10076.ashx?la=en"
+            },
+            {
+                "text": "Process Technology",
+                "url": "sulzer.com/-/media/files/products/process-techology/processes-and-applications/brochures/process_plants.ashx?la=en"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "EN": {
+        "title": "General Industries",
+        "subtitle": "Biomass Power",
+        "content": "Sulzer fully understands the special needs of waste-to-energy producers. Our experience includes waste/fuel handling, ash handling, and steam turbine powertrains, as well as inspection and maintenance of gas-powered generators",
+        "link": [
+            {
+                "text": "Cutting-Edge pumping Solations for the Biomass Power Generation",
+                "url": "http://www.sulzer.com/en/-/media/Documents/Cross_Division/Industries/Power_Generation/Brochures/CuttingEdgePumpingSolutionsForTheBiomassPG_E10234.pdf"
+            },
+            {
+                "text": "Yuor service Parther",
+                "url": "http://www.sulzer.com/en/-/media/Documents/ProductsAndServices/General_Mechanical_Services/General/Brochures/Renewable_Power_Generation_11_2014.pdf"
+            }
+        ]
+    },
+    "TH": {
+        "title": "อุตสาหกรรมทั่วไป",
+        "subtitle": "อุตสาหกรรมไฟฟ้าชีวมวล",
+        "content": "Sulzer fully understands the special needs of waste-to-energy producers. Our experience includes waste/fuel handling, ash handling, and steam turbine powertrains, as well as inspection and maintenance of gas-powered generators",
+        "link": [
+            {
+                "text": "Cutting-Edge pumping Solations for the Biomass Power Generation",
+                "url": "http://www.sulzer.com/en/-/media/Documents/Cross_Division/Industries/Power_Generation/Brochures/CuttingEdgePumpingSolutionsForTheBiomassPG_E10234.pdf"
+            },
+            {
+                "text": "Yuor service Parther",
+                "url": "http://www.sulzer.com/en/-/media/Documents/ProductsAndServices/General_Mechanical_Services/General/Brochures/Renewable_Power_Generation_11_2014.pdf"
+            }
+        ]
+    }
+}

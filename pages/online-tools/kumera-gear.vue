@@ -61,7 +61,7 @@
 
 <script>
 import KumeraGear from "/assets/online-tools/kumera-gear.json";
-import { useLanguagesStore } from "../stores/languages";
+import { useLanguagesStore } from "/pages/stores/languages";
 export default {
   data() {
     return {

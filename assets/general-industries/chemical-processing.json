@@ -1,0 +1,40 @@
+{
+    "EN": {
+        "title": "General Industries",
+        "subtitle": "Chemical Processing",
+        "content": "Our solutions for the chemical processing industry include pumping, separation and mixing, as well as services for rotating equipment and infrastructure. We offer experience in classical chemical, plastic, and pharmaceutical production as well as in processing renewable materials.",
+        "link": [
+            {
+                "text": "Process Technology",
+                "url": "http://www.sulzer.com/en/-/media/Documents/ProductsAndServices/Separation_Technology/Distillation_Absorption/Brochures/Process_Technology.pdf"
+            },
+            {
+                "text": "Mass Transter Technology",
+                "url": "http://www.sulzer.com/en/-/media/Documents/ProductsAndServices/Separation_Technology/Distillation_Absorption/Brochures/Sulzer_MTT_Overall_brochure.pdf"
+            },
+            {
+                "text": "Yuor service Parther",
+                "url": "http://www.sulzer.com/en/-/media/Documents/ProductsAndServices/General_Mechanical_Services/General/Brochures/ServiceSolutionsForTheOilAndGasIndustry_en_E10325_3_2015_WEB.pdf"
+            }
+        ]
+    },
+    "TH": {
+        "title": "อุตสาหกรรมทั่วไป",
+        "subtitle": "อุตสาหกรรมเคมี",
+        "content": "Our solutions for the chemical processing industry include pumping, separation and mixing, as well as services for rotating equipment and infrastructure. We offer experience in classical chemical, plastic, and pharmaceutical production as well as in processing renewable materials.",
+        "link": [
+            {
+                "text": "Process Technology",
+                "url": "http://www.sulzer.com/en/-/media/Documents/ProductsAndServices/Separation_Technology/Distillation_Absorption/Brochures/Process_Technology.pdf"
+            },
+            {
+                "text": "Mass Transter Technology",
+                "url": "http://www.sulzer.com/en/-/media/Documents/ProductsAndServices/Separation_Technology/Distillation_Absorption/Brochures/Sulzer_MTT_Overall_brochure.pdf"
+            },
+            {
+                "text": "Yuor service Parther",
+                "url": "http://www.sulzer.com/en/-/media/Documents/ProductsAndServices/General_Mechanical_Services/General/Brochures/ServiceSolutionsForTheOilAndGasIndustry_en_E10325_3_2015_WEB.pdf"
+            }
+        ]
+    }
+}

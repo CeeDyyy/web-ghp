@@ -1,0 +1,20 @@
+{
+    "EN": {
+        "title": "General Industries",
+        "subtitle": "Sugar",
+        "fab": [
+            "Food and beverage production relies on our pumping and mixing solutions. Special ",
+            "pumps",
+            " and agitators have been developed for sugar, starch, and sweetener production. Separation equipment is often used in beverage manufacturing and our process technologies support purification and concentration."
+        ]
+    },
+    "TH": {
+        "title": "อุตสาหกรรมทั่วไป",
+        "subtitle": "อุตสาหกรรมน้ำตาล",
+        "fab": [
+            "ขั้นตอนการผลิตอาหาร และเครื่องดื่ม จำเป็นต้องใช้ระบบการสูบส่ง (pumping) และการผสม (mixing) ด้วย",
+            "ปั๊ม",
+            " และใบกวน พิเศษ ซึ่งออกแบบมาเพื่อขบวนการผลิตน้ำตาล แป้ง และสารหวาน ในอุตสาหกรรมเครื่องดื่มนั้นมีการใช้เครื่องจักรแยก (separation equipment) และเทคโนโลยีการผลิตของเราช่วยตอบโจทย์ผลิตภัณฑ์ที่มีความบริสุทธิ (purification) และการการทำเข้มข้น (concentration) ตามความต้องการของลูกค้า"
+        ]
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "EN": {
+        "title": "Involved Industries",
+        "learnmore": "Learn more",
+        "industries": [
+            {
+                "id": 101,
+                "img": "https://img.freepik.com/free-photo/white-sugar-cubes-concrete-top-view_114579-5002.jpg?w=1800&t=st=1674733829~exp=1674734429~hmac=b39b2c25d1619b71f9d0908c65004c3d5fbc0ee73135de31668ac9281669c2af",
+                "title": "Sugar",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "path": "/sugar"
+            },
+            {
+                "id": 102,
+                "img": "https://starchinfood.eu/wp-content/uploads/sites/10/2022/06/iStock-1310169023.jpg",
+                "title": "Starch",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "path": "/starch"
+            },
+            {
+                "id": 103,
+                "img": "https://cdn.britannica.com/82/179582-138-3162648B/Overview-production-ethanol-biofuel.jpg?w=800&h=450&c=crop",
+                "title": "Biofuels",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "path": "/biofuels"
+            },
+            {
+                "id": 104,
+                "img": "https://images.unsplash.com/photo-1582282352927-04277241ea93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1772&q=80",
+                "title": "Biomass Power",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "path": "/biomass-power"
+            },
+            {
+                "id": 105,
+                "img": "https://images.unsplash.com/photo-1533163238111-4a7ced54f2e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "title": "Bio Gas and waste water treatment",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "path": "/bio-gas"
+            },
+            {
+                "id": 106,
+                "img": "https://images.unsplash.com/photo-1627052428109-576e839d100a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "title": "Chemical Processing",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "path": "/chemical-processing"
+            },
+            {
+                "id": 107,
+                "img": "https://images.unsplash.com/photo-1613970351372-9804e380bd09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                "title": "Metal & Steel",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "path": "/metal-and-steel"
+            },
+            {
+                "id": 108,
+                "img": "https://images.unsplash.com/photo-1580420232349-3eefa50d2423?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=832&q=80",
+                "title": "Mining",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "path": "/mining"
+            },
+            {
+                "id": 109,
+                "img": "https://images.unsplash.com/photo-1535350356005-fd52b3b524fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                "title": "Pulp & Paper Industry",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "path": "/pulp-and-paper-industry"
+            },
+            {
+                "id": 110,
+                "img": "https://images.unsplash.com/photo-1607027919479-e12efc3525b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+                "title": "Cranes",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "path": "/cranes"
+            },
+            {
+                "id": 111,
+                "img": "https://images.unsplash.com/photo-1630816058207-b99271ccab34?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+                "title": "Cement",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "path": "/cement"
+            },
+            {
+                "id": 112,
+                "img": "https://kumera.com/wp-content/uploads/2021/05/Kumera-%E2%80%93-Propulsion-Gearboxes_Marine_Product-features_.png",
+                "title": "Marine Gearboxes and Drives",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit finibus nunc ut facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "path": "/marine-gearboxes-and-drives"
+            }
+        ]
+    },
+    "TH": {
+        "title": "อุตสาหกรรมที่เกี่ยวข้อง",
+        "learnmore": "เรียนรู้เพิ่มเติม",
+        "industries": [
+            {
+                "id": 201,
+                "img": "https://chriskresser.com/wp-content/uploads/467009529.jpg",
+                "title": "น้ำตาล",
+                "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์",
+                "path": "/sugar"
+            },
+            {
+                "id": 202,
+                "img": "https://starchinfood.eu/wp-content/uploads/sites/10/2022/06/iStock-1310169023.jpg",
+                "title": "แป้ง",
+                "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์",
+                "path": "/starch"
+            },
+            {
+                "id": 203,
+                "img": "https://cdn.britannica.com/82/179582-138-3162648B/Overview-production-ethanol-biofuel.jpg?w=800&h=450&c=crop",
+                "title": "น้ำมันชีวภาพ",
+                "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์",
+                "path": "/biofuels"
+            },
+            {
+                "id": 204,
+                "img": "https://images.unsplash.com/photo-1582282352927-04277241ea93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1772&q=80",
+                "title": "ไฟฟ้าชีวมวล",
+                "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์",
+                "path": "/biomass-power"
+            },
+            {
+                "id": 205,
+                "img": "https://images.unsplash.com/photo-1533163238111-4a7ced54f2e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "title": "แก๊สชีวมวล",
+                "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์",
+                "path": "/bio-gas"
+            },
+            {
+                "id": 206,
+                "img": "https://images.unsplash.com/photo-1627052428109-576e839d100a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "title": "เคมี",
+                "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์",
+                "path": "/chemical-processing"
+            },
+            {
+                "id": 207,
+                "img": "https://images.unsplash.com/photo-1613970351372-9804e380bd09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                "title": "โลหะและอโลหะ",
+                "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์",
+                "path": "/metal-and-steel"
+            },
+            {
+                "id": 208,
+                "img": "https://images.unsplash.com/photo-1580420232349-3eefa50d2423?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=832&q=80",
+                "title": "เหมืองแร่",
+                "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์",
+                "path": "/mining"
+            },
+            {
+                "id": 209,
+                "img": "https://images.unsplash.com/photo-1535350356005-fd52b3b524fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                "title": "เยื้อกระดาษและกระดาษ",
+                "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์",
+                "path": "/pulp-and-paper-industry"
+            },
+            {
+                "id": 210,
+                "img": "https://images.unsplash.com/photo-1607027919479-e12efc3525b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+                "title": "เครน",
+                "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์",
+                "path": "/cranes"
+            },
+            {
+                "id": 211,
+                "img": "https://images.unsplash.com/photo-1630816058207-b99271ccab34?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+                "title": "ซีเมนต์",
+                "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์",
+                "path": "/cement"
+            },
+            {
+                "id": 212,
+                "img": "https://kumera.com/wp-content/uploads/2021/05/Kumera-%E2%80%93-Propulsion-Gearboxes_Marine_Product-features_.png",
+                "title": "Marine Gearboxes and Drives",
+                "content": "พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต ม็อบสตูดิโอแรงผลักกลาส เอาต์ลอร์ดทัวริสต์พุทธศตวรรษมั้ย แคมป์ต่อยอดอุปัทวเหตุ ครูเสดเกรย์บัส พันธกิจไฮไลท์โยเกิร์ตเทรนด์",
+                "path": "/marine-gearboxes-and-drives"
+            }
+        ]
+    }
+}

@@ -22,19 +22,13 @@
                     color="grey-lighten-4"
                     max-width="600"
                     v-bind="props"
+                    :href="'general-industries' + item.path"
                   >
                     <v-img :aspect-ratio="3 / 2" cover :src="item.img">
                       <v-expand-transition>
                         <div
                           v-if="isHovering"
-                          class="
-                            d-flex
-                            transition-fast-in-fast-out
-                            bg-yellow-darken-1
-                            text-green-darken-4
-                            v-card--reveal
-                            text-h4
-                          "
+                          class="d-flex transition-fast-in-fast-out bg-yellow-darken-1 text-green-darken-4 v-card--reveal text-h4"
                           style="height: 100%"
                         >
                           {{ industries.learnmore }}
@@ -44,23 +38,13 @@
 
                     <v-card-text class="pt-6">
                       <div
-                        class="
-                          text-h6
-                          font-weight-light
-                          text-green-darken-4
-                          mb-2
-                        "
+                        class="text-h6 font-weight-light text-green-darken-4 mb-2"
                       >
                         {{ item.title }}
                       </div>
 
                       <div
-                        class="
-                          text-subtitle-2
-                          font-weight-light
-                          text-grey-darken-2
-                          mb-2
-                        "
+                        class="text-subtitle-2 font-weight-light text-grey-darken-2 mb-2"
                       >
                         {{ item.content }}
                       </div>
@@ -79,8 +63,8 @@
 </template>
 
 <script>
-import Industries from "/assets/general-industries.json";
-import { useLanguagesStore } from "../stores/languages";
+import Industries from "/assets/general-industries/general-industries.json";
+import { useLanguagesStore } from "/pages/stores/languages";
 
 export default {
   name: "GeneralIndustries",
