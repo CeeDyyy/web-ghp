@@ -1,14 +1,5 @@
 <template>
-  <v-parallax
-    src="https://cdn.vuetifyjs.com/images/parallax/material2.jpg"
-    class="to-green"
-  >
-    <div
-      class="d-flex flex-column fill-height justify-center align-center text-white"
-    >
-      <h1 class="text-h4 font-weight-thin mb-4">{{ sugar.title }}</h1>
-    </div>
-  </v-parallax>
+  <BannerVue :title="sugar.title" />
   <v-row class="mt-16">
     <v-col cols="12" lg="2"> </v-col>
 
@@ -36,9 +27,16 @@
               {{ sugar.fab[0] }}
               <a href="/general-industries/sugar/pump">{{ sugar.fab[1] }}</a>
               {{ sugar.fab[2] }}
+              <br /><br /><br />
+              <a
+                href="http://www.upkinter.com/wp-content/uploads/2015/05/Ahlstar_pp_E00545.pdf"
+                target="_blank"
+                >Ahlstar_pp_E00545</a
+              >
             </div>
           </v-col>
         </v-row>
+        <KumearVue />
       </v-container>
     </v-col>
 
@@ -47,9 +45,16 @@
 </template>
 
 <script>
+import BannerVue from "/components/banner.vue";
+import KumearVue from "/components/kumear.vue";
 import Sugar from "/assets/general-industries/sugar/sugar.json";
 import { useLanguagesStore } from "/pages/stores/languages";
 export default {
+  name: "Sugar",
+  components: {
+    BannerVue,
+    KumearVue,
+  },
   data() {
     return {
       sugar: Sugar.EN,

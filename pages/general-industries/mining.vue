@@ -1,14 +1,5 @@
 <template>
-  <v-parallax
-    src="https://cdn.vuetifyjs.com/images/parallax/material2.jpg"
-    class="to-green"
-  >
-    <div
-      class="d-flex flex-column fill-height justify-center align-center text-white"
-    >
-      <h1 class="text-h4 font-weight-thin mb-4">{{ mining.title }}</h1>
-    </div>
-  </v-parallax>
+  <BannerVue :title="mining.title" />
   <v-row class="mt-16">
     <v-col cols="12" lg="2"> </v-col>
 
@@ -43,6 +34,7 @@
         <div class="my-4" v-for="(item, i) in mining.powerfulcontent" :key="i">
           {{ item }}
         </div>
+        <KumearVue />
       </v-container>
     </v-col>
 
@@ -51,9 +43,16 @@
 </template>
 
 <script>
+import BannerVue from "/components/banner.vue";
+import KumearVue from "/components/kumear.vue";
 import Mining from "/assets/general-industries/mining.json";
 import { useLanguagesStore } from "/pages/stores/languages";
 export default {
+  name: "Mining",
+  components: {
+    BannerVue,
+    KumearVue,
+  },
   data() {
     return {
       mining: Mining.EN,

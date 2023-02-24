@@ -1,14 +1,5 @@
 <template>
-  <v-parallax
-    src="https://cdn.vuetifyjs.com/images/parallax/material2.jpg"
-    class="to-green"
-  >
-    <div
-      class="d-flex flex-column fill-height justify-center align-center text-white"
-    >
-      <h1 class="text-h4 font-weight-thin mb-4">{{ metal.title }}</h1>
-    </div>
-  </v-parallax>
+  <BannerVue :title="metal.title" />
   <v-row class="mt-16">
     <v-col cols="12" lg="2"> </v-col>
 
@@ -37,6 +28,7 @@
             </div>
           </v-col>
         </v-row>
+        <KumearVue />
       </v-container>
     </v-col>
 
@@ -45,9 +37,16 @@
 </template>
 
 <script>
+import BannerVue from "/components/banner.vue";
+import KumearVue from "/components/kumear.vue";
 import Metal from "/assets/general-industries/metal-and-steel.json";
 import { useLanguagesStore } from "/pages/stores/languages";
 export default {
+  name: "Metal-and-Steel",
+  components: {
+    BannerVue,
+    KumearVue,
+  },
   data() {
     return {
       metal: Metal.EN,

@@ -1,14 +1,5 @@
 <template>
-  <v-parallax
-    src="https://cdn.vuetifyjs.com/images/parallax/material2.jpg"
-    class="to-green"
-  >
-    <div
-      class="d-flex flex-column fill-height justify-center align-center text-white"
-    >
-      <h1 class="text-h4 font-weight-thin mb-4">{{ starch.title }}</h1>
-    </div>
-  </v-parallax>
+  <BannerVue :title="starch.title" />
   <v-row class="mt-16">
     <v-col cols="12" lg="2"> </v-col>
 
@@ -62,7 +53,11 @@
         </div>
         <div class="my-4">
           {{ starch.credit }}
-          <a href="https://www.thaitapiocastarch.org/th/information/learning_industry/tapioca_starch_processing" target="_blank">สมาคมแป้งมันสำปะหลังไทย</a>
+          <a
+            href="https://www.thaitapiocastarch.org/th/information/learning_industry/tapioca_starch_processing"
+            target="_blank"
+            >สมาคมแป้งมันสำปะหลังไทย</a
+          >
         </div>
       </v-container>
     </v-col>
@@ -72,9 +67,14 @@
 </template>
 
 <script>
+import BannerVue from "/components/banner.vue";
 import Starch from "/assets/general-industries/starch/starch.json";
 import { useLanguagesStore } from "/pages/stores/languages";
 export default {
+  name: "Starch",
+  components: {
+    BannerVue,
+  },
   data() {
     return {
       starch: Starch.EN,

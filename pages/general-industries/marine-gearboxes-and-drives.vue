@@ -1,14 +1,5 @@
 <template>
-  <v-parallax
-    src="https://cdn.vuetifyjs.com/images/parallax/material2.jpg"
-    class="to-green"
-  >
-    <div
-      class="d-flex flex-column fill-height justify-center align-center text-white"
-    >
-      <h1 class="text-h4 font-weight-thin mb-4">{{ marine.title }}</h1>
-    </div>
-  </v-parallax>
+  <BannerVue :title="marine.title" />
   <v-row class="mt-16">
     <v-col cols="12" lg="2"> </v-col>
 
@@ -49,9 +40,14 @@
 </template>
 
 <script>
+import BannerVue from "/components/banner.vue";
 import Marine from "/assets/general-industries/marine-gearboxes-and-drives.json";
 import { useLanguagesStore } from "/pages/stores/languages";
 export default {
+  name: "Marine-Gearboxes-and-Drives",
+  components: {
+    BannerVue,
+  },
   data() {
     return {
       marine: Marine.EN,

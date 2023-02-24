@@ -1,14 +1,5 @@
 <template>
-  <v-parallax
-    src="https://cdn.vuetifyjs.com/images/parallax/material2.jpg"
-    class="to-green"
-  >
-    <div
-      class="d-flex flex-column fill-height justify-center align-center text-white"
-    >
-      <h1 class="text-h4 font-weight-thin mb-4">{{ pulp.title }}</h1>
-    </div>
-  </v-parallax>
+  <BannerVue :title="pulp.title" />
   <v-row class="mt-16">
     <v-col cols="12" lg="2"> </v-col>
 
@@ -34,8 +25,8 @@
           <v-col cols="12" sm="6" class="d-flex align-center text-center">
             <div>
               <h2 class="text-h4 font-weight-thin my-8">
-              {{ pulp.pulpheading }}
-            </h2>
+                {{ pulp.pulpheading }}
+              </h2>
               {{ pulp.pulpcontent }}
             </div>
           </v-col>
@@ -55,6 +46,7 @@
         <div class="my-4" v-for="(item, i) in pulp.completecontent" :key="i">
           {{ item }}
         </div>
+        <KumearVue />
       </v-container>
     </v-col>
 
@@ -63,9 +55,16 @@
 </template>
 
 <script>
+import BannerVue from "/components/banner.vue";
+import KumearVue from "/components/kumear.vue";
 import Pulp from "/assets/general-industries/pulp-and-paper-industry.json";
 import { useLanguagesStore } from "/pages/stores/languages";
 export default {
+  name: "Pulp-and-Paper-Industry",
+  components: {
+    BannerVue,
+    KumearVue,
+  },
   data() {
     return {
       pulp: Pulp.EN,

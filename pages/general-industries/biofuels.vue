@@ -1,14 +1,5 @@
 <template>
-  <v-parallax
-    src="https://cdn.vuetifyjs.com/images/parallax/material2.jpg"
-    class="to-green"
-  >
-    <div
-      class="d-flex flex-column fill-height justify-center align-center text-white"
-    >
-      <h1 class="text-h4 font-weight-thin mb-4">{{ biofuels.title }}</h1>
-    </div>
-  </v-parallax>
+  <BannerVue :title="biofuels.title" />
   <v-row class="mt-16">
     <v-col cols="12" lg="2"> </v-col>
 
@@ -44,6 +35,7 @@
             </ul>
           </v-col>
         </v-row>
+        <KumearVue />
       </v-container>
     </v-col>
 
@@ -52,9 +44,16 @@
 </template>
 
 <script>
+import BannerVue from "/components/banner.vue";
+import KumearVue from "/components/kumear.vue";
 import Biofuels from "/assets/general-industries/biofuels.json";
 import { useLanguagesStore } from "/pages/stores/languages";
 export default {
+  name: "Biofuels",
+  components: {
+    BannerVue,
+    KumearVue,
+  },
   data() {
     return {
       biofuels: Biofuels.EN,
