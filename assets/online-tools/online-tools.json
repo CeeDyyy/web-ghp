@@ -1,0 +1,26 @@
+{
+    "EN": {
+        "title": "Online Tools",
+        "subtitle": "Tools Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "sulzer": {
+            "title": "Sulzer Pumps",
+            "subtitle": "Purchase good quality pump ~~~"
+        },
+        "kumera": {
+            "title": "Kumera Gear",
+            "subtitle": "Kumera Power-Plaza is the online digital marketplace for Kumera Power Transmissions and associated spare parts."
+        }
+    },
+    "TH": {
+        "title": "เครื่องมือออนไลน์",
+        "subtitle": "เครื่องมือ พาวเวอร์บู๊ ปาสเตอร์แหววสไตรค์เวิร์ควาริชศาสตร์ คาร์ สี่แยก โบตั๋น แบต",
+        "sulzer": {
+            "title": "Sulzer Pumps",
+            "subtitle": "Purchase good quality pump ~~~"
+        },
+        "kumera": {
+            "title": "Kumera Gear",
+            "subtitle": "Kumera Power-Plaza is the online digital marketplace for Kumera Power Transmissions and associated spare parts."
+        }
+    }
+}
