@@ -1,0 +1,36 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Slurry pumps",
+        "content": "Slurry pumps are used in solids containing applications. Depending on process conditions, equipment should be suitable for highly abrasive or corrosive liquids. Sulzer offers a complete range of slurry pumps specially designed to handle light to severe slurry duty.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/slurry-pumps/heavy_duty_slurry_pump_type_ensival_moret_emw-m_1500x1356.jpg?mw=827&la=en&hash=062BD64115BD2C9E3FE42336F7054D5B",
+                "title": "Heavy duty slurry pumps type Ensival Moret EMW",
+                "url": "https://www.sulzer.com/en/shared/products/2017/06/15/11/56/heavy-duty-slurry-pumps-type-ensival-moret-emw"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/slurry-pumps/slurry_pump_em_plr_full_plrd100-40view1.ashx?mw=364&hash=9B6E09FE8D998F08EA47C2C84A58D546A20CA635",
+                "title": "Slurry pump type Ensival Moret PLR and CR",
+                "url": "https://www.sulzer.com/en/shared/products/2018/04/05/14/26/slurry-pump-type-ensival-moret-plr-cr"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Slurry pumps",
+        "content": "Slurry pumps are used in solids containing applications. Depending on process conditions, equipment should be suitable for highly abrasive or corrosive liquids. Sulzer offers a complete range of slurry pumps specially designed to handle light to severe slurry duty.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/slurry-pumps/heavy_duty_slurry_pump_type_ensival_moret_emw-m_1500x1356.jpg?mw=827&la=en&hash=062BD64115BD2C9E3FE42336F7054D5B",
+                "title": "Heavy duty slurry pumps type Ensival Moret EMW",
+                "url": "https://www.sulzer.com/en/shared/products/2017/06/15/11/56/heavy-duty-slurry-pumps-type-ensival-moret-emw"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/slurry-pumps/slurry_pump_em_plr_full_plrd100-40view1.ashx?mw=364&hash=9B6E09FE8D998F08EA47C2C84A58D546A20CA635",
+                "title": "Slurry pump type Ensival Moret PLR and CR",
+                "url": "https://www.sulzer.com/en/shared/products/2018/04/05/14/26/slurry-pump-type-ensival-moret-plr-cr"
+            }
+        ]
+    }
+}

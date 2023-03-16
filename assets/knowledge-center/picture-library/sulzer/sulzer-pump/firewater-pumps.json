@@ -1,0 +1,36 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Firewater pumps",
+        "content": "Conventional and FPSO offshore production platforms require fire protection, which is typically achieved by a high-pressure firewater ring main supplied by a firewater pump.Traditionally, firewater pumps are conventional, vertical line-shaft pumps driven by a diesel engine via a 90° gearbox. However, this solution requires intensive maintenance. Through its innovative hydraulic drive fire pump design, Sulzer Pumps brings a number of cost-effective improvements to this key application.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/vertical-pumps/fire_fighting_cropped.ashx?mw=364&hash=1215F4D8110CE127E7FE342C275D17CFFC9830B2",
+                "title": "Diesel hydraulic driven pumping unit for firefighting",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/49/diesel-hydraulic-driven-pumping-unit-for-firefighting"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/firewater-pumps/nfpa_firewater_pump.ashx?mw=364&hash=D75C2B62A6C42D7FED0C03CBBB0D1BC223EFF1F3",
+                "title": "Fire pump package",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/49/fire-pump-package"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Firewater pumps",
+        "content": "Conventional and FPSO offshore production platforms require fire protection, which is typically achieved by a high-pressure firewater ring main supplied by a firewater pump.Traditionally, firewater pumps are conventional, vertical line-shaft pumps driven by a diesel engine via a 90° gearbox. However, this solution requires intensive maintenance. Through its innovative hydraulic drive fire pump design, Sulzer Pumps brings a number of cost-effective improvements to this key application.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/vertical-pumps/fire_fighting_cropped.ashx?mw=364&hash=1215F4D8110CE127E7FE342C275D17CFFC9830B2",
+                "title": "Diesel hydraulic driven pumping unit for firefighting",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/49/diesel-hydraulic-driven-pumping-unit-for-firefighting"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/firewater-pumps/nfpa_firewater_pump.ashx?mw=364&hash=D75C2B62A6C42D7FED0C03CBBB0D1BC223EFF1F3",
+                "title": "Fire pump package",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/49/fire-pump-package"
+            }
+        ]
+    }
+}

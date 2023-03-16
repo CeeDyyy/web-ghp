@@ -1,0 +1,76 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Radial split pumps",
+        "content": "Sulzer offers various models of radial split pumps: the GSG and CP are for high-temperature hydrocarbon processes, oil production and offshore crude oil services; the HPcp and HPcpV for water injection to 1000 bars and offshore high energy services; and the HPT for electric utility boiler feed duties.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/radial-split-pumps/cp.jpg?mw=827&la=en&hash=1A9852609D8BC7ADC1103D4E4565E924",
+                "title": "CP horizontal radially split multistage barrel pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/42/cp-horizontal-radially-split-multistage-barrel-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/radial-split-pumps/gsg.jpg?mw=827&la=en&hash=47114228CAF215AE32486660E1194F21",
+                "title": "GSG diffuser style barrel pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/42/gsg-diffuser-style-barrel-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/radial-split-pumps/gsg_bfp_radial_split_pump_full.png?mw=827&la=en&hash=B2819A9DDCD91C983AB8723CE42B19D2",
+                "title": "GSG diffuser style barrel pump for feedwater applications",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/14/06/gsg-diffuser-style-barrel-pump-for-feedwater-applications"
+            },
+            {
+                "img": "https://www.sulzer.com/en/shared/products/2017/03/28/14/06/gsg-diffuser-style-barrel-pump-for-feedwater-applications",
+                "title": "GVG diffuser style barrel pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/42/gvg-diffuser-style-barrel-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/applications/power-generation/fossil/gas-fired-power-generation/hpcp.jpg?mw=827&la=en&hash=FFD82F22168C56B8AA9E8856D6120D45",
+                "title": "HPcp barrel casing pump",
+                "url": "HPcp barrel casing pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/single-stage-pumps/ar08_1008_pu_neurathcrop.jpg?mw=827&la=en&hash=F618099DB6C03A6D12AA33FB7FEF531A",
+                "title": "HPT high pressure barrel casing pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/43/hpt-high-pressure-barrel-casing-pump"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Radial split pumps",
+        "content": "Sulzer offers various models of radial split pumps: the GSG and CP are for high-temperature hydrocarbon processes, oil production and offshore crude oil services; the HPcp and HPcpV for water injection to 1000 bars and offshore high energy services; and the HPT for electric utility boiler feed duties.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/radial-split-pumps/cp.jpg?mw=827&la=en&hash=1A9852609D8BC7ADC1103D4E4565E924",
+                "title": "CP horizontal radially split multistage barrel pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/42/cp-horizontal-radially-split-multistage-barrel-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/radial-split-pumps/gsg.jpg?mw=827&la=en&hash=47114228CAF215AE32486660E1194F21",
+                "title": "GSG diffuser style barrel pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/42/gsg-diffuser-style-barrel-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/radial-split-pumps/gsg_bfp_radial_split_pump_full.png?mw=827&la=en&hash=B2819A9DDCD91C983AB8723CE42B19D2",
+                "title": "GSG diffuser style barrel pump for feedwater applications",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/14/06/gsg-diffuser-style-barrel-pump-for-feedwater-applications"
+            },
+            {
+                "img": "https://www.sulzer.com/en/shared/products/2017/03/28/14/06/gsg-diffuser-style-barrel-pump-for-feedwater-applications",
+                "title": "GVG diffuser style barrel pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/42/gvg-diffuser-style-barrel-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/applications/power-generation/fossil/gas-fired-power-generation/hpcp.jpg?mw=827&la=en&hash=FFD82F22168C56B8AA9E8856D6120D45",
+                "title": "HPcp barrel casing pump",
+                "url": "HPcp barrel casing pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/single-stage-pumps/ar08_1008_pu_neurathcrop.jpg?mw=827&la=en&hash=F618099DB6C03A6D12AA33FB7FEF531A",
+                "title": "HPT high pressure barrel casing pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/43/hpt-high-pressure-barrel-casing-pump"
+            }
+        ]
+    }
+}

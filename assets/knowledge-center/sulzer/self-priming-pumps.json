@@ -1,0 +1,22 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Self-priming pumps",
+        "content": "SULZER S and LM design degassing unit is designed to remove gasses from inside volute casing. With these special design, SULZER pumps with degassing unit are able to self-prime with liquid suction lift of up to 8 mH2O.",
+        "contactus": [
+            "For more information, please ",
+            "contact us",
+            " directly."
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Self-priming pumps",
+        "content": "ปั๊ม SULZER รุ่น S และ LM ที่มี degassing unit อยู่ด้านหลังโข่งซึ่งมีหน้าที่แยกและดูดอากาศหรือฟองภายในโข่งออก ทำให้ปั๊ม SULZER สามารถล่อน้ำตัวเองได้โดยไม่ต้องมี foot valve หรือ ท่อดูดเยื้องศูนย์เพลาทำให้มี ประสิทธิภาพสูง และระยะดูดยกทางท่อดูดซึ่งสูงได้ถึง 8 เมตร(น้ำ)",
+        "contactus": [
+            "หากสนใจสอบถามข้อมูลเพิ่มเติม โปรด",
+            "ติดต่อทีมงานยูพีเคโดยตรง",
+            ""
+        ]
+    }
+}

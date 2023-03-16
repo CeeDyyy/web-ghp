@@ -1,0 +1,76 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Ring section pumps",
+        "content": "Sulzer has a long tradition of supplying ring section mid- to high-pressure pumps to all kinds of industrial applications. The M-series is designed in a modular way based on different ranges of pressures for use in a wide range of applications, primarily for pumping clean or slightly polluted liquids.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/ring-section-pumps/mbn_ring_section_pump_full.jpg?mw=827&la=en&hash=2577035E043B00FD6F6FEC256DF4764B",
+                "title": "MBN medium pressure stage casing pumps",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/51/mbn-multistage-ring-section-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/ring-section-pumps/mbn_ro.jpg?mw=827&la=en&hash=258587B5DEB1CD6C2AC8B0E732819BF5",
+                "title": "MBN-RO multistage ring section pump",
+                "url": "MBN-RO multistage ring section pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/ring-section-pumps/mc_high_pressure_ring_section_pump_full.jpg?mw=827&la=en&hash=051F88A5BFD37488AD4691716734889B",
+                "title": "MC high pressure stage casing pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/51/mc-high-pressure-stage-casing-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/ring-section-pumps/md_ring_section_pump_full.jpg?mw=827&la=en&hash=A1DCBF2D6A287A386B4732C0F997E9A1",
+                "title": "MD high pressure stage casing pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/51/md-high-pressure-stage-casing-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/ring-section-pumps/me_ring_section_pump_full.jpg?mw=827&la=en&hash=7D76E5E87136AA792E83329806C669FE",
+                "title": "ME high pressure ring section pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/51/me-high-pressure-ring-section-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/vertical-pumps/vms_vertical_multistage_pump_with_certificate_logos.jpg?mw=827&la=en&hash=5D5C737B5B058912659385965EB8004D",
+                "title": "VMS vertical multistage pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/04/19/13/12/vms-vertical-multistage-pump"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Ring section pumps",
+        "content": "Sulzer has a long tradition of supplying ring section mid- to high-pressure pumps to all kinds of industrial applications. The M-series is designed in a modular way based on different ranges of pressures for use in a wide range of applications, primarily for pumping clean or slightly polluted liquids.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/ring-section-pumps/mbn_ring_section_pump_full.jpg?mw=827&la=en&hash=2577035E043B00FD6F6FEC256DF4764B",
+                "title": "MBN medium pressure stage casing pumps",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/51/mbn-multistage-ring-section-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/ring-section-pumps/mbn_ro.jpg?mw=827&la=en&hash=258587B5DEB1CD6C2AC8B0E732819BF5",
+                "title": "MBN-RO multistage ring section pump",
+                "url": "MBN-RO multistage ring section pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/ring-section-pumps/mc_high_pressure_ring_section_pump_full.jpg?mw=827&la=en&hash=051F88A5BFD37488AD4691716734889B",
+                "title": "MC high pressure stage casing pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/51/mc-high-pressure-stage-casing-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/ring-section-pumps/md_ring_section_pump_full.jpg?mw=827&la=en&hash=A1DCBF2D6A287A386B4732C0F997E9A1",
+                "title": "MD high pressure stage casing pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/51/md-high-pressure-stage-casing-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/ring-section-pumps/me_ring_section_pump_full.jpg?mw=827&la=en&hash=7D76E5E87136AA792E83329806C669FE",
+                "title": "ME high pressure ring section pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/51/me-high-pressure-ring-section-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/vertical-pumps/vms_vertical_multistage_pump_with_certificate_logos.jpg?mw=827&la=en&hash=5D5C737B5B058912659385965EB8004D",
+                "title": "VMS vertical multistage pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/04/19/13/12/vms-vertical-multistage-pump"
+            }
+        ]
+    }
+}

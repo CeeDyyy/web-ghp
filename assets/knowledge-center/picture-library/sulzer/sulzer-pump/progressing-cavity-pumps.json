@@ -1,0 +1,56 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Progressing cavity pumps",
+        "content": "Sulzer offers a range of progressing cavity pumps for demanding positive displacement process applications. Our pumps provide a near constant flow rate and suction lift capability for handling wastewater sludge, slurries, viscous and shear thinning non-Newtonian fluids.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/progressing-cavity-pumps-und-macerators/pcw_progressing_cavity_cake_pump_mirrored.jpg?mw=827&la=en&hash=FEF14D138AD8D8465E3A4AC572DDF44C",
+                "title": "PC cake pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/50/pc-cake-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/progressing-cavity-pumps-und-macerators/pc_transfer_perform_pump.jpg?mw=827&la=en&hash=59E0C5AE58B90E385C9BF34DB460DE80",
+                "title": "PC dosing pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/50/pc-dosing-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/progressing-cavity-pumps-und-macerators/pcl_progressing_cavity_dosing_pump_1200x800.jpg?mw=827&la=en&hash=CC08958449491EC88686BBCDA49B6EA7",
+                "title": "PC transfer perform pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/50/pc-transfer-perform-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/progressing-cavity-pumps-und-macerators/pcc_progressing_cavity_transfer_pump_sulzer.ashx?mw=564&hash=9F41E727D445641EAA508A57131D0C5EB6E005CF",
+                "title": "PC transfer pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/50/pc-transfer-pump"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Progressing cavity pumps",
+        "content": "Sulzer offers a range of progressing cavity pumps for demanding positive displacement process applications. Our pumps provide a near constant flow rate and suction lift capability for handling wastewater sludge, slurries, viscous and shear thinning non-Newtonian fluids.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/progressing-cavity-pumps-und-macerators/pcw_progressing_cavity_cake_pump_mirrored.jpg?mw=827&la=en&hash=FEF14D138AD8D8465E3A4AC572DDF44C",
+                "title": "PC cake pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/50/pc-cake-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/progressing-cavity-pumps-und-macerators/pc_transfer_perform_pump.jpg?mw=827&la=en&hash=59E0C5AE58B90E385C9BF34DB460DE80",
+                "title": "PC dosing pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/50/pc-dosing-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/progressing-cavity-pumps-und-macerators/pcl_progressing_cavity_dosing_pump_1200x800.jpg?mw=827&la=en&hash=CC08958449491EC88686BBCDA49B6EA7",
+                "title": "PC transfer perform pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/50/pc-transfer-perform-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/progressing-cavity-pumps-und-macerators/pcc_progressing_cavity_transfer_pump_sulzer.ashx?mw=564&hash=9F41E727D445641EAA508A57131D0C5EB6E005CF",
+                "title": "PC transfer pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/50/pc-transfer-pump"
+            }
+        ]
+    }
+}

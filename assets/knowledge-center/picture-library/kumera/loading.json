@@ -1,0 +1,20 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Loading...",
+        "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+        "alt": "Loading Pic",
+        "content": [
+            "Loading..."
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Loading...",
+        "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+        "alt": "Loading Pic",
+        "content": [
+            "Loading..."
+        ]
+    }
+}

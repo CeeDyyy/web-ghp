@@ -1,0 +1,55 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Submersible mixers",
+        "content": "Sulzer’s energy efficient submersible mixers are suitable for a wide range of applications in industry and municipal treatment plants. They provide the right solution to match mixing tasks for agitating, blending, mixing, dissolving and suspension of solids in industry and municipal treatment plants.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/submersible-mixers/submersible_mixer_rw_group_1520x1280.ashx?mw=564&hash=DE6E50429F7DD71E071789CDB1378348A3BCCC98",
+                "title": "Submersible mixer type ABS RW",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/51/submersible-mixer-type-abs-rw"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/submersible-mixers/xrw_group.ashx?mw=564&hash=92C08457B51C0D05BB203BDA543A5FAFAA0F0D25",
+                "title": "Submersible mixer type ABS XRW 210 to 900",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/51/submersible-mixer-type-abs-xrw-210-to-900"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/submersible-mixers/xsb_full_group.ashx?mw=564&hash=F4A0053997766F147AA993890BFAB1B96B933FF4",
+                "title": "Flow booster type ABS XSB 900 to 2750",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/51/flow-booster-type-abs-xsb-900-to-2750"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/submersible-mixers/abs_flow_booster_sb2500.ashx?mw=564&hash=724F487BEC6DD8234A7F12696A777C803F25C5A9",
+                "title": "Flow booster type ABS SB",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/50/flow-booster-type-abs-sb"
+            }
+        ]
+    },
+    "TH": {
+        "title": "Submersible mixers",
+        "content": "Sulzer’s energy efficient submersible mixers are suitable for a wide range of applications in industry and municipal treatment plants. They provide the right solution to match mixing tasks for agitating, blending, mixing, dissolving and suspension of solids in industry and municipal treatment plants.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/submersible-mixers/submersible_mixer_rw_group_1520x1280.ashx?mw=564&hash=DE6E50429F7DD71E071789CDB1378348A3BCCC98",
+                "title": "Submersible mixer type ABS RW",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/51/submersible-mixer-type-abs-rw"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/submersible-mixers/xrw_group.ashx?mw=564&hash=92C08457B51C0D05BB203BDA543A5FAFAA0F0D25",
+                "title": "Submersible mixer type ABS XRW 210 to 900",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/51/submersible-mixer-type-abs-xrw-210-to-900"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/submersible-mixers/xsb_full_group.ashx?mw=564&hash=F4A0053997766F147AA993890BFAB1B96B933FF4",
+                "title": "Flow booster type ABS XSB 900 to 2750",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/51/flow-booster-type-abs-xsb-900-to-2750"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/submersible-mixers/abs_flow_booster_sb2500.ashx?mw=564&hash=724F487BEC6DD8234A7F12696A777C803F25C5A9",
+                "title": "Flow booster type ABS SB",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/50/flow-booster-type-abs-sb"
+            }
+        ]
+    }
+}

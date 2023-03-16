@@ -1,0 +1,76 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Medium consistency products",
+        "content": "Sulzer MC medium consistency technology offers a wide range of reliable products for medium-consistency, fibrous slurry applications up to 18% consistency: MCE™, KCE™ and LCE™ pumping systems with patented Fluider™ technology, MC discharge scrapers, MC dischargers and SX chemical mixers.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/medium-consistency-products/mce_pumping_system.ashx?mw=564&hash=6A3F755EE92940D8DA30F46F2B30FD2136685B2F",
+                "title": "MCE™ medium consistency pumping systems",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/14/38/mce-pumping-systems"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/medium-consistency-products/lce_pumping_system.ashx?mw=564&hash=64B82A2700791E65ACF40C092CD3E736E234AD53",
+                "title": "LCE™ medium consistency pumping system",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/14/38/lce-pumping-systems"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/medium-consistency-products/kce_pumping_system.ashx?mw=564&hash=80975F6B081844E54B46851C3064346553F9CF35",
+                "title": "KCE™ medium consistency pumping system",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/14/38/kce-pumping-systems"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/sx_chemical_mixer.ashx?mw=364&hash=464284763E4B82D78708FD6E5B93D129A700E95F",
+                "title": "SX chemical mixer",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/11/sx-chemical-mixer"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/medium-consistency-products/mc_discharge_scraper.ashx?mw=364&hash=422F65F9F44DBA56CBC17E7D86FE61FC77F78809",
+                "title": "MC discharge scraper",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/14/38/mc-discharge-scraper"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/medium-consistency-products/mc_discharger_vertical.ashx?mw=364&hash=C2B8E06F7AEAC0C0436A6EC701C477DA8BCCA6BD",
+                "title": "MC discharger",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/14/38/mc-discharger"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Medium consistency products",
+        "content": "Sulzer MC medium consistency technology offers a wide range of reliable products for medium-consistency, fibrous slurry applications up to 18% consistency: MCE™, KCE™ and LCE™ pumping systems with patented Fluider™ technology, MC discharge scrapers, MC dischargers and SX chemical mixers.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/medium-consistency-products/mce_pumping_system.ashx?mw=564&hash=6A3F755EE92940D8DA30F46F2B30FD2136685B2F",
+                "title": "MCE™ medium consistency pumping systems",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/14/38/mce-pumping-systems"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/medium-consistency-products/lce_pumping_system.ashx?mw=564&hash=64B82A2700791E65ACF40C092CD3E736E234AD53",
+                "title": "LCE™ medium consistency pumping system",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/14/38/lce-pumping-systems"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/medium-consistency-products/kce_pumping_system.ashx?mw=564&hash=80975F6B081844E54B46851C3064346553F9CF35",
+                "title": "KCE™ medium consistency pumping system",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/14/38/kce-pumping-systems"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/sx_chemical_mixer.ashx?mw=364&hash=464284763E4B82D78708FD6E5B93D129A700E95F",
+                "title": "SX chemical mixer",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/11/sx-chemical-mixer"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/medium-consistency-products/mc_discharge_scraper.ashx?mw=364&hash=422F65F9F44DBA56CBC17E7D86FE61FC77F78809",
+                "title": "MC discharge scraper",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/14/38/mc-discharge-scraper"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/medium-consistency-products/mc_discharger_vertical.ashx?mw=364&hash=C2B8E06F7AEAC0C0436A6EC701C477DA8BCCA6BD",
+                "title": "MC discharger",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/14/38/mc-discharger"
+            }
+        ]
+    }
+}

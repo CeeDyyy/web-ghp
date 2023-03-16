@@ -1,0 +1,56 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Pump and lifting station accessories",
+        "content": "Our pumps and lifting stations come in standard versions and with optional features. Accessories to the pumps and lifting stations are also available and can be found on these pages.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/pumps-and-lifting-station-accessoires/valve_group_2011.ashx?mw=364&hash=2F225543F4C7B94010C355398CA30884E78DB655",
+                "title": "Check valves type ABS",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/22/check-valves-type-abs"
+            },
+            {
+                "img": "https://www.sulzer.com/en/shared/products/2017/03/28/13/22/check-valves-type-abs",
+                "title": "Flushing valve type ABS",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/23/flushing-valve-type-abs"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps-accessories/pump-and-lifting-station-accessories/wm_stop_plug_in_all_switches.ashx?mw=564&hash=FEBE6614E3FD6DB72E28395F9B012EF187A09B67",
+                "title": "Plug-in alarm type ABS",
+                "url": "https://www.sulzer.com/en/shared/products/2017/06/15/09/09/plug-in-alarm-type-abs"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps-accessories/pump-and-lifting-station-accessories/sealpot_cropped.ashx?mw=564&hash=07A7F7AE9AE9E2B354DCF0C6DC575907264DD6DB",
+                "title": "Thermosiphon SP8 seal pot system",
+                "url": "https://www.sulzer.com/en/shared/products/2018/01/10/13/56/thermosiphon-sp8-seal-pot-system"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Pump and lifting station accessories",
+        "content": "Our pumps and lifting stations come in standard versions and with optional features. Accessories to the pumps and lifting stations are also available and can be found on these pages.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/pumps-and-lifting-station-accessoires/valve_group_2011.ashx?mw=364&hash=2F225543F4C7B94010C355398CA30884E78DB655",
+                "title": "Check valves type ABS",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/22/check-valves-type-abs"
+            },
+            {
+                "img": "https://www.sulzer.com/en/shared/products/2017/03/28/13/22/check-valves-type-abs",
+                "title": "Flushing valve type ABS",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/23/flushing-valve-type-abs"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps-accessories/pump-and-lifting-station-accessories/wm_stop_plug_in_all_switches.ashx?mw=564&hash=FEBE6614E3FD6DB72E28395F9B012EF187A09B67",
+                "title": "Plug-in alarm type ABS",
+                "url": "https://www.sulzer.com/en/shared/products/2017/06/15/09/09/plug-in-alarm-type-abs"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps-accessories/pump-and-lifting-station-accessories/sealpot_cropped.ashx?mw=564&hash=07A7F7AE9AE9E2B354DCF0C6DC575907264DD6DB",
+                "title": "Thermosiphon SP8 seal pot system",
+                "url": "https://www.sulzer.com/en/shared/products/2018/01/10/13/56/thermosiphon-sp8-seal-pot-system"
+            }
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Agitators, dynamic mixers",
+        "content": "Sulzer SALOMIX™ and Scaba mixing and agitation technology offers a wide range of products for industrial applications. Side-mounted horizontal and top-mounted vertical agitators, dynamic chemical mixers, and tower and tank flow management products guarantee effective mixing and agitating processes.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/agitator_salomix_sl_st_1800x934px.ashx?mw=564&hash=50791E2608C1E9D27EE09460E9FD44A00078BB9F",
+                "title": "SALOMIX™ SL/ST side mounted horizontal agitators",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/10/salomix-sl-st-side-mounted-horizontal-agitators"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/agistar_ssa_full_2l_f_690x704px.ashx?mw=564&hash=6085A9863C675F01F1212FC587D26F85F0FE6558",
+                "title": "AGISTAR™ SSA side-mounted agitators",
+                "url": "https://www.sulzer.com/en/shared/products/2017/08/02/12/43/agistar-ssa-side-mounted-agitators"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/salomix_l_topmounted.ashx?mw=564&hash=89FC63B8F53333FB9EE8DA7B03D8DBF767B42BDE",
+                "title": "SALOMIX™ L top mounted vertical agitators",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/27/12/41/salomix-l-top-mounted-vertical-agitators"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/sulzer_scabatopmountedverticalagitator.ashx?mw=564&hash=BEE29C956349E0682FE41281812E253BDE9479F1",
+                "title": "Scaba top mounted agitator",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/11/scaba-top-mounted-agitator"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/scaba_horizontal.ashx?mw=564&hash=A227E90053BE0A77E2F7DEB9ECB9AE903114AB04",
+                "title": "Scaba side mounted agitator",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/10/scaba-side-mounted-agitator"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/sx_chemical_mixer.ashx?mw=364&hash=464284763E4B82D78708FD6E5B93D129A700E95F",
+                "title": "SX chemical mixer",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/11/sx-chemical-mixer"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Agitators, dynamic mixers",
+        "content": "Sulzer SALOMIX™ and Scaba mixing and agitation technology offers a wide range of products for industrial applications. Side-mounted horizontal and top-mounted vertical agitators, dynamic chemical mixers, and tower and tank flow management products guarantee effective mixing and agitating processes.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/agitator_salomix_sl_st_1800x934px.ashx?mw=564&hash=50791E2608C1E9D27EE09460E9FD44A00078BB9F",
+                "title": "SALOMIX™ SL/ST side mounted horizontal agitators",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/10/salomix-sl-st-side-mounted-horizontal-agitators"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/agistar_ssa_full_2l_f_690x704px.ashx?mw=564&hash=6085A9863C675F01F1212FC587D26F85F0FE6558",
+                "title": "AGISTAR™ SSA side-mounted agitators",
+                "url": "https://www.sulzer.com/en/shared/products/2017/08/02/12/43/agistar-ssa-side-mounted-agitators"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/salomix_l_topmounted.ashx?mw=564&hash=89FC63B8F53333FB9EE8DA7B03D8DBF767B42BDE",
+                "title": "SALOMIX™ L top mounted vertical agitators",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/27/12/41/salomix-l-top-mounted-vertical-agitators"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/sulzer_scabatopmountedverticalagitator.ashx?mw=564&hash=BEE29C956349E0682FE41281812E253BDE9479F1",
+                "title": "Scaba top mounted agitator",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/11/scaba-top-mounted-agitator"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/scaba_horizontal.ashx?mw=564&hash=A227E90053BE0A77E2F7DEB9ECB9AE903114AB04",
+                "title": "Scaba side mounted agitator",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/10/scaba-side-mounted-agitator"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/agitators-dynamic-mixers/sx_chemical_mixer.ashx?mw=364&hash=464284763E4B82D78708FD6E5B93D129A700E95F",
+                "title": "SX chemical mixer",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/11/sx-chemical-mixer"
+            }
+        ]
+    }
+}

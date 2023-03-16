@@ -1,0 +1,66 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Compressors and aeration",
+        "content": "Sulzer’s state of the art offering for municipal and industrial wastewater treatment includes turbocompressors, aeration systems and mechanical aerators. Our application and process know-how combined with our unique product portfolio give us the means to provide customers with reliable and efficient solutions.Our highly efficient turbocompressors can provide low-pressure air flow to almost any process.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/compressors-and-aeration/hst/turbocompressor_type_abs_hst.jpg?mw=827&la=en&hash=DC27DDB7461FBC4E7081E5875C96B8B8",
+                "title": "HST™ turbocompressor",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/14/hst-turbocompressor"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/compressors-and-aeration/abs_submersible_aerator_oki_2000.ashx?mw=564&hash=B5C51A325574DFCAECB02051BDC4C0AF23B07B57",
+                "title": "Submersible aerator mixer type ABS OKI",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/14/submersible-aerator-mixer-type-abs-oki"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/compressors-and-aeration/submersible_aerator_type_abs_xta.jpg?mw=827&la=en&hash=4E8FEABBB215A6AF0DAB76373C73E301",
+                "title": "Submersible aerator type ABS XTA XTAK",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/14/submersible-aerator-type-abs-xta-xtak"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/compressors-and-aeration/venturi_jet_cad.ashx?mw=564&hash=5DDB05B5FE2FD5831713DE1E5AAD9F619A213ABA",
+                "title": "Aerator type ABS Venturi jet",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/15/aerator-type-abs-venturi-jet"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/compressors-and-aeration/nopon_disc_diffuser_system.ashx?mw=364&hash=65E78489270D02D8622AD3DC50D4031C758DCAB4",
+                "title": "Disc diffuser system type ABS",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/15/disc-diffuser-system-type-abs"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Compressors and aeration",
+        "content": "Sulzer’s state of the art offering for municipal and industrial wastewater treatment includes turbocompressors, aeration systems and mechanical aerators. Our application and process know-how combined with our unique product portfolio give us the means to provide customers with reliable and efficient solutions.Our highly efficient turbocompressors can provide low-pressure air flow to almost any process.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/compressors-and-aeration/hst/turbocompressor_type_abs_hst.jpg?mw=827&la=en&hash=DC27DDB7461FBC4E7081E5875C96B8B8",
+                "title": "HST™ turbocompressor",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/14/hst-turbocompressor"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/compressors-and-aeration/abs_submersible_aerator_oki_2000.ashx?mw=564&hash=B5C51A325574DFCAECB02051BDC4C0AF23B07B57",
+                "title": "Submersible aerator mixer type ABS OKI",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/14/submersible-aerator-mixer-type-abs-oki"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/compressors-and-aeration/submersible_aerator_type_abs_xta.jpg?mw=827&la=en&hash=4E8FEABBB215A6AF0DAB76373C73E301",
+                "title": "Submersible aerator type ABS XTA XTAK",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/14/submersible-aerator-type-abs-xta-xtak"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/compressors-and-aeration/venturi_jet_cad.ashx?mw=564&hash=5DDB05B5FE2FD5831713DE1E5AAD9F619A213ABA",
+                "title": "Aerator type ABS Venturi jet",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/15/aerator-type-abs-venturi-jet"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/compressors-and-aeration/nopon_disc_diffuser_system.ashx?mw=364&hash=65E78489270D02D8622AD3DC50D4031C758DCAB4",
+                "title": "Disc diffuser system type ABS",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/15/disc-diffuser-system-type-abs"
+            }
+        ]
+    }
+}

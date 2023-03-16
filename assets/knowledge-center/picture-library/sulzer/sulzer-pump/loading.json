@@ -1,0 +1,46 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Loading...",
+        "content": "Loading...",
+        "list": [
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            },
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            },
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Loading...",
+        "content": "Loading...",
+        "list": [
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            },
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            },
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            }
+        ]
+    }
+}

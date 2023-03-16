@@ -1,0 +1,56 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Tower management systems",
+        "content": "SALOMIX tower management technology offers a wide range of systems for industrial tower applications. SALOMIX TES, SALOMIX GLI and SALOMIX VULCA systems are used to improve tower applications’ process performance leading to reduced cost and improved end product quality.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/tower-management-systems/tes3.ashx?mw=564&hash=8BE0352DFCA0391056856580F931B56977E17416",
+                "title": "SALOMIX TES top entry spreader",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/11/salomix-tes-top-entry-spreader"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/tower-management-systems/gli.ashx?mw=364&hash=7BA5B90496D34AD6F2E0D5F48D47FC4813DC1631",
+                "title": "SALOMIX GLI",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/27/13/11/salomix-gli"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/tower-management-systems/vulca4.ashx?mw=564&hash=5DDAFEE96AF779356705578C8E986EFC19FF3448",
+                "title": "SALOMIX VULCA",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/11/salomix-vulca"
+            },
+            {
+                "img": "https://3.imimg.com/data3/YR/OP/MY-1161995/medium-consistency-products-500x500.jpg",
+                "title": "Medium consistency products",
+                "url": "https://www.sulzer.com/en/products/medium-consistency-products"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Tower management systems",
+        "content": "SALOMIX tower management technology offers a wide range of systems for industrial tower applications. SALOMIX TES, SALOMIX GLI and SALOMIX VULCA systems are used to improve tower applications’ process performance leading to reduced cost and improved end product quality.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/tower-management-systems/tes3.ashx?mw=564&hash=8BE0352DFCA0391056856580F931B56977E17416",
+                "title": "SALOMIX TES top entry spreader",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/11/salomix-tes-top-entry-spreader"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/tower-management-systems/gli.ashx?mw=364&hash=7BA5B90496D34AD6F2E0D5F48D47FC4813DC1631",
+                "title": "SALOMIX GLI",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/27/13/11/salomix-gli"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/tower-management-systems/vulca4.ashx?mw=564&hash=5DDAFEE96AF779356705578C8E986EFC19FF3448",
+                "title": "SALOMIX VULCA",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/12/11/salomix-vulca"
+            },
+            {
+                "img": "https://3.imimg.com/data3/YR/OP/MY-1161995/medium-consistency-products-500x500.jpg",
+                "title": "Medium consistency products",
+                "url": "https://www.sulzer.com/en/products/medium-consistency-products"
+            }
+        ]
+    }
+}

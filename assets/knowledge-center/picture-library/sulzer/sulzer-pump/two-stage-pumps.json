@@ -1,0 +1,36 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Two stage pumps",
+        "content": "Two-stage centrifugal pumps are used in applications where higher head is required. They ensure more reliable, high efficiency process and lower operating costs instead of serial pumping system.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/two-stage-pumps/bbt_bbt_d.ashx?mw=364&hash=F71DBBEDAB6E8A2F0DADB02056B43B1FCE7626FE",
+                "title": "BBT/BBT-D process pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/01/bbt-bbt-d-process-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/two-stage-pumps/lsp_end_suction_two_stage_low_speed_high_pressure_pumps_full.jpg?mw=827&la=en&hash=E77B27BA1C7F4EFD1FB780762E1DDC91",
+                "title": "AHLSTAR LSP/T end suction two stage low speed high pressure pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/02/ahlstar-lsp-t-end-suction-pump"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Knowledge Center",
+        "title": "Two stage pumps",
+        "content": "Two-stage centrifugal pumps are used in applications where higher head is required. They ensure more reliable, high efficiency process and lower operating costs instead of serial pumping system.",
+        "list": [
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/two-stage-pumps/bbt_bbt_d.ashx?mw=364&hash=F71DBBEDAB6E8A2F0DADB02056B43B1FCE7626FE",
+                "title": "BBT/BBT-D process pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/01/bbt-bbt-d-process-pump"
+            },
+            {
+                "img": "https://www.sulzer.com/-/media/images/products/pumps/two-stage-pumps/lsp_end_suction_two_stage_low_speed_high_pressure_pumps_full.jpg?mw=827&la=en&hash=E77B27BA1C7F4EFD1FB780762E1DDC91",
+                "title": "AHLSTAR LSP/T end suction two stage low speed high pressure pump",
+                "url": "https://www.sulzer.com/en/shared/products/2017/03/28/13/02/ahlstar-lsp-t-end-suction-pump"
+            }
+        ]
+    }
+}

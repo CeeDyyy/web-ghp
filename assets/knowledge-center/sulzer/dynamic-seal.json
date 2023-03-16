@@ -1,0 +1,50 @@
+{
+    "EN": {
+        "heading": "Knowledge Center",
+        "title": "Dynamic seal",
+        "subtitle": "Sulzer Dynamic Seal",
+        "list": [
+            "No sealing water required. Saving approximately 120 liter of water an hour comparing to mechanical seal",
+            "Long-lasting, no leakage. Up to 5 years under circumstances.",
+            "Up to 8% consistency"
+        ],
+        "description": [
+            "Less downtime cost, no sealing water cost and less maintenance cost.",
+            "Reliable, good for non-spare continuous application, liquid containing solid pumping or application which sealing water cannot mix with pumped liquid such as ethanol production."
+        ],
+        "what": {
+            "heading": "What is dynamic seal?",
+            "content": "Dynamic seal consist of 2 parts called dynamic part and static part. Static part keeps liquid sealed when pump is not running using pressure of liquid to press flexible disc against sleeve. Dynamic part consist of expeller which drive liquid away from static part when the pump is running."
+        },
+        "readmore": "Read more about sulzer dynamic seal",
+        "contactus": [
+            "For more information, please ",
+            "contact us",
+            " directly."
+        ]
+    },
+    "TH": {
+        "heading": "สาระน่ารู้",
+        "title": "Dynamic seal",
+        "subtitle": "ไดนามิคซีล",
+        "list": [
+            "ไม่ต้องมีน้ำเลี้ยงซีล: การที่ไม่ใช้น้ำเลี้ยงซีลทำให้ประหยัดการใช้น้ำลง 120 ลิตร/ชั่วโมง อนุรักษ์สิ่งแวดล้อมและประหยัดต้นทุน",
+            "อายุการใช้งานยาวนาน ซีลไม่รั่ว: อายุซีลยาวถึง 5 ปีภายใต้เงื่อนไข ค่าบำรุงรักษาต่ำ",
+            "ใช้ได้กับของเหลวที่มีเปร์เซนต์กากถึง 8%"
+        ],
+        "description": [
+            "ลดค่าเสียหายจากเวลาหยุดเดินเครื่อง ไม่มีต้นทุนจากน้ำเลี้ยงซีล และ ค่าบำรุงรักษาต่ำ",
+            "เหมาะสำหรับการทำงานต่อเนื่องและไม่มีระบบสำรอง การสูบของเหลวที่มีของแข็งหรือเส้นใยเจือปน, การสูบของเหลวที่ไม่อนุญาติให้น้ำเลียงซีลเข้าไปผสมได้เช่นการสูบเอานอลในโรงเอทานอล"
+        ],
+        "what": {
+            "heading": "ไดนามิคซีลคืออะไร?",
+            "content": "ไดนามิคซีลเป็นซีลที่ทำงานโดยประกอบไปด้วยสองส่วนคือส่วนของสแตติกซีลที่ทำหน้าที่ซีลขณะที่ปั๊มหยุดทำงานโดยอาศัยของเหลวมากด flexible disk ให้แนบกับ sleeve และไดนามิคซีลที่ทำหน้าที่ยกของเหลวออกจากหน้าสแตติกซีลด้วยแรงหนีศูนย์จาก expeller ขณะที่ปั๊มทำงาน ทำให้ไม่เกิดการสึกหรอทางกลดังนั้นไดนามิคซีลจึงมีอายุการใช้งานสูงกว่าเมคคานิคอลซีล"
+        },
+        "readmore": "อ่านเพิ่มเติมเกี่ยวกับไดนามิคซีล",
+        "contactus": [
+            "หากสนใจสอบถามข้อมูลเพิ่มเติม โปรด",
+            "ติดต่อทีมงานยูพีเคโดยตรง",
+            ""
+        ]
+    }
+}
