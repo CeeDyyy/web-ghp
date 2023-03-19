@@ -1,7 +1,7 @@
 <template>
   <div class="my-8">
     <a
-      href="sulzer.com/en/Industries/Chemical-Processing/Biofuels#tabs-2"
+      href="https://www.sulzer.com/en/Industries/Chemical-Processing/Biofuels#tabs-2"
       target="_blank"
     >
       Sulzer Document

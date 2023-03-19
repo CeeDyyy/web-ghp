@@ -21,7 +21,7 @@
       <v-col cols="12" sm="6" class="d-flex align-center text-center">
         <div>
           {{ sugar.fab[0] }}
-          <a href="/general-industries/sugar/pump">{{ sugar.fab[1] }}</a>
+          <a href="sugar/pump">{{ sugar.fab[1] }}</a>
           {{ sugar.fab[2] }}
           <br /><br /><br />
           <a

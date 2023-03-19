@@ -40,7 +40,7 @@
                     <v-btn
                       variant="flat"
                       class="bg-yellow-darken-1 text-green-darken-4 font-weight-bold mt-3"
-                      href="/online-tools/sulzer-pumps"
+                      href="online-tools/sulzer-pumps"
                       min-width="9rem"
                     >
                       Sulzer Pumps
@@ -69,7 +69,7 @@
                     <v-btn
                       variant="flat"
                       class="bg-yellow-darken-1 text-green-darken-4 font-weight-bold mt-3"
-                      href="/online-tools/kumera-gear"
+                      href="online-tools/kumera-gear"
                       min-width="9rem"
                     >
                       Kumera Power Plaza
