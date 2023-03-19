@@ -1,48 +1,29 @@
 <template>
-  <v-parallax
-    src="https://cdn.vuetifyjs.com/images/parallax/material2.jpg"
-    class="to-green"
-  >
-    <div
-      class="d-flex flex-column fill-height justify-center align-center text-white"
-    >
-      <h1 class="text-h4 font-weight-thin mb-4">
-        {{ info.heading }}
-      </h1>
+  <BannerVue :title="info.heading" />
+  <NuxtLayout>
+    <h1 class="d-flex justify-center text-h4 font-weight-thin mb-4">
+      {{ info.title }}
+    </h1>
+    <v-divider
+      class="mx-auto mt-2 mb-4"
+      width="5%"
+      thickness="2.5px"
+      color="grey"
+    />
+    <div class="d-flex justify-center">
+      <img :src="info.img" width="300" :alt="info.alt" />
     </div>
-  </v-parallax>
-  <v-row class="mt-16">
-    <v-col cols="12" lg="2"> </v-col>
-
-    <v-col cols="12" lg="8">
-      <!-- ABOUT -->
-      <v-container class="mb-16">
-        <h1 class="d-flex justify-center text-h4 font-weight-thin mb-4">
-          {{ info.title }}
-        </h1>
-        <v-divider
-          class="mx-auto mt-2 mb-4"
-          width="5%"
-          thickness="2.5px"
-          color="grey"
-        />
-        <div class="d-flex justify-center">
-          <img :src="info.img" width="300" :alt="info.alt" />
-        </div>
-        <p class="my-4">
-          {{ info.alt }}
-        </p>
-        <div class="my-4" v-for="(item, index) in info.content" :key="index">
-          {{ item }}
-        </div>
-      </v-container>
-    </v-col>
-
-    <v-col cols="12" lg="2"> </v-col>
-  </v-row>
+    <p class="my-4">
+      {{ info.alt }}
+    </p>
+    <div class="my-4" v-for="(item, index) in info.content" :key="index">
+      {{ item }}
+    </div>
+  </NuxtLayout>
 </template>
 
 <script>
+import BannerVue from "/components/banner.vue";
 import Loading from "/assets/knowledge-center/picture-library/kumera/loading.json";
 import KumeraMultiStageHelicalAndBevelHelicalGearboxes from "/assets/knowledge-center/picture-library/kumera/kumera-multi-stage-helical-and-bevel-helical-gearboxes.json";
 import KumeraOneStageHelicalGearboxes from "/assets/knowledge-center/picture-library/kumera/kumera-one-stage-helical-gearboxes.json";
@@ -54,6 +35,10 @@ import CustomBuiltGearboxes from "/assets/knowledge-center/picture-library/kumer
 import GuardGearOnlineConditionMonitoring from "/assets/knowledge-center/picture-library/kumera/guard-gear-online-condition-monitoring.json";
 import { useLanguagesStore } from "/pages/stores/languages";
 export default {
+  name: "Kumera",
+  components: {
+    BannerVue,
+  },
   data() {
     return {
       info: Loading.EN,
@@ -114,19 +99,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-.to-green {
-  -webkit-filter: hue-rotate(80deg);
-  filter: hue-rotate(80deg);
-  height: 200px;
-}
-#logo {
-  height: 200px;
-  overflow: hidden;
-}
-#logo img {
-  object-fit: cover;
-  width: 100%;
-}
-</style>

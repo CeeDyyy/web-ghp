@@ -4,7 +4,7 @@
     <Header />
     <v-main>
       <!-- <v-container> -->
-        <RouterView />
+      <RouterView />
       <!-- </v-container> -->
     </v-main>
     <!-- Footer -->

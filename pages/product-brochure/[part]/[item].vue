@@ -1,66 +1,42 @@
 <template>
-  <v-parallax
-    src="https://cdn.vuetifyjs.com/images/parallax/material2.jpg"
-    class="to-green"
-  >
-    <div
-      class="d-flex flex-column fill-height justify-center align-center text-white"
-    >
-      <h1 class="text-h4 font-weight-thin mb-4">
-        {{ info.heading }}
-      </h1>
+  <BannerVue :title="info.title" />
+  <NuxtLayout>
+    <div class="d-flex justify-center mb-4">
+      <v-img
+        v-if="info.logo !== ''"
+        :src="info.logo"
+        height="100"
+        :alt="info.title"
+      />
+      <h1 v-else class="text-h4 font-weight-thin">{{ info.title }}</h1>
     </div>
-  </v-parallax>
-  <v-row class="mt-16">
-    <v-col cols="12" lg="2"> </v-col>
+    <v-row class="d-flex justify-space-around">
+      <v-col cols="6" sm="3" v-for="(item, index) in info.list" :key="index">
+        <v-hover>
+          <template v-slot:default="{ isHovering, props }">
+            <a :href="item.url" target="_blank">
+              <v-card
+                v-bind="props"
+                :elevation="isHovering ? 12 : 2"
+                class="mx-auto"
+                max-width="344"
+              >
+                <v-img :src="item.img" cover :alt="item.title"></v-img>
 
-    <v-col cols="12" lg="8">
-      <!-- ABOUT -->
-      <v-container class="mb-16">
-        <div class="d-flex justify-center mb-4">
-          <v-img
-            v-if="info.logo !== ''"
-            :src="info.logo"
-            height="100"
-            :alt="info.title"
-          />
-          <h1 v-else class="text-h4 font-weight-thin">{{ info.title }}</h1>
-        </div>
-        <v-row class="d-flex justify-space-around">
-          <v-col
-            cols="6"
-            sm="3"
-            v-for="(item, index) in info.list"
-            :key="index"
-          >
-            <v-hover>
-              <template v-slot:default="{ isHovering, props }">
-                <a :href="item.url" target="_blank">
-                  <v-card
-                    v-bind="props"
-                    :elevation="isHovering ? 12 : 2"
-                    class="mx-auto"
-                    max-width="344"
-                  >
-                    <v-img :src="item.img" cover :alt="item.title"></v-img>
-
-                    <v-card-text class="text-center">
-                      {{ item.title }}
-                    </v-card-text>
-                  </v-card>
-                </a>
-              </template>
-            </v-hover>
-          </v-col>
-        </v-row>
-      </v-container>
-    </v-col>
-
-    <v-col cols="12" lg="2"> </v-col>
-  </v-row>
+                <v-card-text class="text-center">
+                  {{ item.title }}
+                </v-card-text>
+              </v-card>
+            </a>
+          </template>
+        </v-hover>
+      </v-col>
+    </v-row>
+  </NuxtLayout>
 </template>
 
 <script>
+import BannerVue from "/components/banner.vue";
 import Loading from "/assets/product-brochure/loading.json";
 import Sulzer from "/assets/product-brochure/rotating-equipments/sulzer.json";
 import Kumera from "/assets/product-brochure/rotating-equipments/kumera.json";
@@ -74,6 +50,10 @@ import Loctite from "/assets/product-brochure/spare-parts-consumable-parts/locti
 import PrRollsIndonesia from "/assets/product-brochure/services-overhaul/pr-rolls-indonesia.json";
 import { useLanguagesStore } from "/pages/stores/languages";
 export default {
+  name: "SulzerXTRSubmersibleAerator",
+  components: {
+    BannerVue,
+  },
   data() {
     return {
       info: Loading.EN,
@@ -169,19 +149,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-.to-green {
-  -webkit-filter: hue-rotate(80deg);
-  filter: hue-rotate(80deg);
-  height: 200px;
-}
-#logo {
-  height: 200px;
-  overflow: hidden;
-}
-#logo img {
-  object-fit: cover;
-  width: 100%;
-}
-</style>
