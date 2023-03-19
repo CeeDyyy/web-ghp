@@ -1,3 +1,3 @@
 <template>
-    <div>Knowledge Center</div>
+  <div>Knowledge Center</div>
 </template>

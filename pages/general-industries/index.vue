@@ -1,5 +1,7 @@
 <template>
-  <BannerVue :title="industries.title" />
+  <h1 class="d-flex justify-center text-h3 font-weight-medium mt-16 mb-12">
+    {{ industries.title }}
+  </h1>
   <NuxtLayout>
     <v-row>
       <v-col
@@ -47,15 +49,11 @@
 </template>
 
 <script>
-import BannerVue from "/components/banner.vue";
 import Industries from "/assets/general-industries/general-industries.json";
 import { useLanguagesStore } from "/pages/stores/languages";
 
 export default {
   name: "GeneralIndustries",
-  components: {
-    BannerVue,
-  },
   data() {
     return {
       industries: Industries.EN,
