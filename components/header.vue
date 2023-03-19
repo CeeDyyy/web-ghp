@@ -1,8 +1,8 @@
 <template>
   <div>
     <v-app-bar class="bg-yellow-darken-1">
-      <v-toolbar-title>
-        <img src="@/assets/logo.png" height="40" @click="$router.push('/')" />
+      <v-toolbar-title id="logo" @click="$router.push(menu[0].path)">
+        <img src="@/assets/logo.png" height="40" />
       </v-toolbar-title>
       <v-btn icon>
         <v-icon color="green-darken-4">mdi-magnify</v-icon>
@@ -263,3 +263,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+#logo img {
+  cursor: pointer;
+}
+</style>
