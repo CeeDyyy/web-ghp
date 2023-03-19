@@ -16,13 +16,13 @@
         "EN": "General Industries",
         "TH": "อุตสาหกรรมทั่วไป",
         "path": "/general-industries",
-        "subitems": [
+        "submenu": [
             {
                 "id": 301,
                 "EN": "Sugar",
                 "TH": "อุตสาหกรรมน้ำตาล",
                 "path": "/general-industries/sugar",
-                "subitems": [
+                "submenu": [
                     {
                         "id": 3011,
                         "EN": "Pump",
@@ -36,7 +36,7 @@
                 "EN": "Starch",
                 "TH": "อุตสาหกรรมแป้ง",
                 "path": "/general-industries/starch",
-                "subitems": [
+                "submenu": [
                     {
                         "id": 3012,
                         "EN": "Pump",
@@ -112,13 +112,13 @@
         "EN": "Product & Brochure",
         "TH": "สินค้าและโบรชัวร์",
         "path": "/product-brochure",
-        "subitems": [
+        "submenu": [
             {
                 "id": 41,
                 "EN": "Rotating Equipments",
                 "TH": "เครื่องจักรอุตสาหกรรม",
                 "path": "/product-brochure/rotating-equipments",
-                "subitems": [
+                "submenu": [
                     {
                         "id": 411,
                         "EN": "Sulzer",
@@ -162,7 +162,7 @@
                 "EN": "Spare Parts & Consumable Parts",
                 "TH": "อะไหล่เครื่องจักร และ อะไหล่สิ้นเปลือง",
                 "path": "/product-brochure/spare-parts-consumable-parts",
-                "subitems": [
+                "submenu": [
                     {
                         "id": 421,
                         "EN": "Couplings",
@@ -188,7 +188,7 @@
                 "EN": "Services & Overhaul",
                 "TH": "บริการและซ่อมบำรุงหลังการขาย",
                 "path": "/product-brochure/services-overhaul",
-                "subitems": [
+                "submenu": [
                     {
                         "id": 433,
                         "EN": "PR Rolls Indonesia",
@@ -202,7 +202,7 @@
                 "EN": "Waste Water Technology",
                 "TH": "เทคโนโลยี น้ำเสีย",
                 "path": "/product-brochure/veolia-water-treatment",
-                "subitems": [
+                "submenu": [
                     {
                         "id": 441,
                         "EN": "Actiflo – High Speed Water Clarifier",
@@ -242,13 +242,13 @@
         "EN": "Knowledge Center",
         "TH": "สาระน่ารู้",
         "path": "/knowledge-center",
-        "subitems": [
+        "submenu": [
             {
                 "id": 61,
                 "EN": "Sulzer",
                 "TH": "Sulzer",
                 "path": "/knowledge-center/sulzer",
-                "subitems": [
+                "submenu": [
                     {
                         "id": 61,
                         "EN": "Dynamic Seal",
@@ -280,19 +280,19 @@
                 "EN": "Picture Library",
                 "TH": "คลังรูปภาพ",
                 "path": "/knowledge-center/picture-library",
-                "subitems": [
+                "submenu": [
                     {
                         "id": 631,
                         "EN": "Sulzer",
                         "TH": "Sulzer",
                         "path": "/knowledge-center/picture-library/sulzer",
-                        "subitems": [
+                        "submenu": [
                             {
                                 "id": 6311,
                                 "EN": "Sulzer Pump",
                                 "TH": "ปั๊ม Sulzer",
                                 "path": "/knowledge-center/picture-library/sulzer/sulzer-pump",
-                                "subitems": [
+                                "submenu": [
                                     {
                                         "id": 631101,
                                         "EN": "Axially Split Pumps",
@@ -422,7 +422,7 @@
                         "EN": "Kumera",
                         "TH": "Kumera",
                         "path": "/knowledge-center/picture-library/kumera",
-                        "subitems": [
+                        "submenu": [
                             {
                                 "id": 6321,
                                 "EN": "Kumera Multi Stage Helical and Bevel-helical Gearboxes",

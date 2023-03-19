@@ -24,7 +24,7 @@
           <template v-for="main in menu" :key="main.id">
             <v-tab v-if="language.$state.language == 'EN'" :to="main.path">
               <!-- Start Hover to Show Sub One -->
-              <v-menu open-on-hover v-if="main.subitems">
+              <v-menu open-on-hover v-if="main.submenu">
                 <template v-slot:activator="{ props }">
                   <div v-bind="props">
                     {{ main.EN }}
@@ -34,12 +34,12 @@
 
                 <v-list class="bg-yellow-darken-1 text-white">
                   <v-list-item
-                    v-for="subone in main.subitems"
+                    v-for="subone in main.submenu"
                     :key="subone.id"
                     :to="subone.path"
                   >
                     <!-- Start Hover to Show Sub Two -->
-                    <v-menu open-on-hover v-if="subone.subitems" location="end">
+                    <v-menu open-on-hover v-if="subone.submenu" location="end">
                       <template v-slot:activator="{ props }">
                         <div v-bind="props">
                           {{ subone.EN }}
@@ -49,14 +49,14 @@
 
                       <v-list class="bg-yellow-darken-1 text-white">
                         <v-list-item
-                          v-for="subtwo in subone.subitems"
+                          v-for="subtwo in subone.submenu"
                           :key="subtwo.id"
                           :to="subtwo.path"
                         >
                           <!-- Start Hover to Show Sub Three -->
                           <v-menu
                             open-on-hover
-                            v-if="subtwo.subitems"
+                            v-if="subtwo.submenu"
                             location="end"
                           >
                             <template v-slot:activator="{ props }">
@@ -68,14 +68,14 @@
 
                             <v-list class="bg-yellow-darken-1 text-white">
                               <v-list-item
-                                v-for="subthree in subtwo.subitems"
+                                v-for="subthree in subtwo.submenu"
                                 :key="subthree.id"
                                 :to="subthree.path"
                               >
                                 <!-- Start Hover to Show Sub Four -->
                                 <v-menu
                                   open-on-hover
-                                  v-if="subthree.subitems"
+                                  v-if="subthree.submenu"
                                   location="end"
                                 >
                                   <template v-slot:activator="{ props }">
@@ -87,7 +87,7 @@
 
                                   <v-list class="bg-yellow-darken-1 text-white">
                                     <v-list-item
-                                      v-for="subfour in subthree.subitems"
+                                      v-for="subfour in subthree.submenu"
                                       :key="subfour.id"
                                       :to="subfour.path"
                                     >
@@ -115,7 +115,7 @@
             </v-tab>
             <v-tab v-else :to="main.path">
               <!-- Start Hover to Show Sub One -->
-              <v-menu open-on-hover v-if="main.subitems">
+              <v-menu open-on-hover v-if="main.submenu">
                 <template v-slot:activator="{ props }">
                   <div v-bind="props">
                     {{ main.TH }}
@@ -125,12 +125,12 @@
 
                 <v-list class="bg-yellow-darken-1 text-white">
                   <v-list-item
-                    v-for="subone in main.subitems"
+                    v-for="subone in main.submenu"
                     :key="subone.id"
                     :to="subone.path"
                   >
                     <!-- Start Hover to Show Sub Two -->
-                    <v-menu open-on-hover v-if="subone.subitems" location="end">
+                    <v-menu open-on-hover v-if="subone.submenu" location="end">
                       <template v-slot:activator="{ props }">
                         <div v-bind="props">
                           {{ subone.TH }}
@@ -140,14 +140,14 @@
 
                       <v-list class="bg-yellow-darken-1 text-white">
                         <v-list-item
-                          v-for="subtwo in subone.subitems"
+                          v-for="subtwo in subone.submenu"
                           :key="subtwo.id"
                           :to="subtwo.path"
                         >
                           <!-- Start Hover to Show Sub Three -->
                           <v-menu
                             open-on-hover
-                            v-if="subtwo.subitems"
+                            v-if="subtwo.submenu"
                             location="end"
                           >
                             <template v-slot:activator="{ props }">
@@ -159,14 +159,14 @@
 
                             <v-list class="bg-yellow-darken-1 text-white">
                               <v-list-item
-                                v-for="subthree in subtwo.subitems"
+                                v-for="subthree in subtwo.submenu"
                                 :key="subthree.id"
                                 :to="subthree.path"
                               >
                                 <!-- Start Hover to Show Sub Four -->
                                 <v-menu
                                   open-on-hover
-                                  v-if="subthree.subitems"
+                                  v-if="subthree.submenu"
                                   location="end"
                                 >
                                   <template v-slot:activator="{ props }">
@@ -178,7 +178,7 @@
 
                                   <v-list class="bg-yellow-darken-1 text-white">
                                     <v-list-item
-                                      v-for="subfour in subthree.subitems"
+                                      v-for="subfour in subthree.submenu"
                                       :key="subfour.id"
                                       :to="subfour.path"
                                     >
@@ -224,19 +224,19 @@
         :key="main.id"
       >
         <div v-if="language.$state.language == 'EN'">
-          <v-list-group v-if="main.subitems">
+          <v-list-group v-if="main.submenu">
             <template v-slot:activator="{ props }">
               <v-list-item v-bind="props" :title="main.EN"></v-list-item>
             </template>
             <!-- Start Click to Show Sub One -->
-            <div v-for="subone in main.subitems" :key="subone.id">
-              <v-list-group v-if="subone.subitems">
+            <div v-for="subone in main.submenu" :key="subone.id">
+              <v-list-group v-if="subone.submenu">
                 <template v-slot:activator="{ props }">
                   <v-list-item v-bind="props" :title="subone.EN"></v-list-item>
                 </template>
                 <!-- Start Click to Show Sub Two -->
-                <div v-for="subtwo in subone.subitems" :key="subtwo.id">
-                  <v-list-group v-if="subtwo.subitems">
+                <div v-for="subtwo in subone.submenu" :key="subtwo.id">
+                  <v-list-group v-if="subtwo.submenu">
                     <template v-slot:activator="{ props }">
                       <v-list-item
                         v-bind="props"
@@ -244,8 +244,8 @@
                       ></v-list-item>
                     </template>
                     <!-- Start Click to Show Sub Three -->
-                    <div v-for="subthree in subtwo.subitems" :key="subthree.id">
-                      <v-list-group v-if="subthree.subitems">
+                    <div v-for="subthree in subtwo.submenu" :key="subthree.id">
+                      <v-list-group v-if="subthree.submenu">
                         <template v-slot:activator="{ props }">
                           <v-list-item
                             v-bind="props"
@@ -254,10 +254,10 @@
                         </template>
                         <!-- Start Click to Show Sub Four -->
                         <div
-                          v-for="subfour in subthree.subitems"
+                          v-for="subfour in subthree.submenu"
                           :key="subfour.id"
                         >
-                          <v-list-group v-if="subfour.subitems">
+                          <v-list-group v-if="subfour.submenu">
                             <template v-slot:activator="{ props }">
                               <v-list-item
                                 v-bind="props"
@@ -300,19 +300,19 @@
           <v-list-item v-else :title="main.EN" :to="main.path"></v-list-item>
         </div>
         <div v-else>
-          <v-list-group v-if="main.subitems">
+          <v-list-group v-if="main.submenu">
             <template v-slot:activator="{ props }">
               <v-list-item v-bind="props" :title="main.TH"></v-list-item>
             </template>
             <!-- Start Click to Show Sub One -->
-            <div v-for="subone in main.subitems" :key="subone.id">
-              <v-list-group v-if="subone.subitems">
+            <div v-for="subone in main.submenu" :key="subone.id">
+              <v-list-group v-if="subone.submenu">
                 <template v-slot:activator="{ props }">
                   <v-list-item v-bind="props" :title="subone.TH"></v-list-item>
                 </template>
                 <!-- Start Click to Show Sub Two -->
-                <div v-for="subtwo in subone.subitems" :key="subtwo.id">
-                  <v-list-group v-if="subtwo.subitems">
+                <div v-for="subtwo in subone.submenu" :key="subtwo.id">
+                  <v-list-group v-if="subtwo.submenu">
                     <template v-slot:activator="{ props }">
                       <v-list-item
                         v-bind="props"
@@ -320,8 +320,8 @@
                       ></v-list-item>
                     </template>
                     <!-- Start Click to Show Sub Three -->
-                    <div v-for="subthree in subtwo.subitems" :key="subthree.id">
-                      <v-list-group v-if="subthree.subitems">
+                    <div v-for="subthree in subtwo.submenu" :key="subthree.id">
+                      <v-list-group v-if="subthree.submenu">
                         <template v-slot:activator="{ props }">
                           <v-list-item
                             v-bind="props"
@@ -330,10 +330,10 @@
                         </template>
                         <!-- Start Click to Show Sub Four -->
                         <div
-                          v-for="subfour in subthree.subitems"
+                          v-for="subfour in subthree.submenu"
                           :key="subfour.id"
                         >
-                          <v-list-group v-if="subfour.subitems">
+                          <v-list-group v-if="subfour.submenu">
                             <template v-slot:activator="{ props }">
                               <v-list-item
                                 v-bind="props"
