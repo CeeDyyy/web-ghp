@@ -59,5 +59,13 @@ export default {
       this.$refs["hiddenElement"].scrollIntoView({ behavior: "smooth" });
     },
   },
+  mounted() {
+    if (this.$route.params.language == "en") {
+      this.landing = Landing.EN;
+    }
+    if (this.$route.params.language == "th") {
+      this.landing = Landing.TH;
+    }
+  }
 };
 </script>

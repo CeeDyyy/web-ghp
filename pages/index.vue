@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import GeneralIndustriesVue from "./general-industries/";
+import GeneralIndustriesVue from "./[language]/general-industries/";
 import LandingVue from "../components/landing.vue";
 import ServicesVue from "../components/services.vue";
 

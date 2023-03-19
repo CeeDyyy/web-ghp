@@ -46,5 +46,13 @@ export default {
       }
     },
   },
+  mounted() {
+    if (this.$route.params.language == "en") {
+      this.services = Services.EN;
+    }
+    if (this.$route.params.language == "th") {
+      this.services = Services.TH;
+    }
+  }
 };
 </script>

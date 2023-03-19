@@ -1,492 +1,832 @@
-[
-    {
-        "id": 1,
-        "EN": "Home",
-        "TH": "หน้าหลัก",
-        "path": "/"
-    },
-    {
-        "id": 2,
-        "EN": "Orders",
-        "TH": "สั่งสินค้า",
-        "path": "/orders"
-    },
-    {
-        "id": 3,
-        "EN": "General Industries",
-        "TH": "อุตสาหกรรมทั่วไป",
-        "path": "/general-industries",
-        "submenu": [
-            {
-                "id": 301,
-                "EN": "Sugar",
-                "TH": "อุตสาหกรรมน้ำตาล",
-                "path": "/general-industries/sugar",
-                "submenu": [
-                    {
-                        "id": 3011,
-                        "EN": "Pump",
-                        "TH": "ปั๊ม",
-                        "path": "/general-industries/sugar/pump"
-                    }
-                ]
-            },
-            {
-                "id": 302,
-                "EN": "Starch",
-                "TH": "อุตสาหกรรมแป้ง",
-                "path": "/general-industries/starch",
-                "submenu": [
-                    {
-                        "id": 3012,
-                        "EN": "Pump",
-                        "TH": "ปั๊ม",
-                        "path": "/general-industries/starch/pump"
-                    }
-                ]
-            },
-            {
-                "id": 303,
-                "EN": "Biofuels",
-                "TH": "อุตสาหกรรมน้ำมันชีวภาพ",
-                "path": "/general-industries/biofuels"
-            },
-            {
-                "id": 304,
-                "EN": "Biomass Power",
-                "TH": "อุตสาหกรรมไฟฟ้าชีวมวล",
-                "path": "/general-industries/biomass-power"
-            },
-            {
-                "id": 305,
-                "EN": "Bio Gas",
-                "TH": "อุตสาหกรรมแก๊สชีวมวล",
-                "path": "/general-industries/bio-gas"
-            },
-            {
-                "id": 306,
-                "EN": "Chemical Processing",
-                "TH": "อุตสาหกรรมเคมี",
-                "path": "/general-industries/chemical-processing"
-            },
-            {
-                "id": 307,
-                "EN": "Metal & Steel",
-                "TH": "อุตสาหกรรมอะโลหะและเหล็ก",
-                "path": "/general-industries/metal-and-steel"
-            },
-            {
-                "id": 308,
-                "EN": "Mining",
-                "TH": "อุตสาหกรรมเหมืองแร่",
-                "path": "/general-industries/mining"
-            },
-            {
-                "id": 309,
-                "EN": "Pulp & Paper Industry",
-                "TH": "อุตสาหกรรมเยื้อกระดาษและกระดาษ",
-                "path": "/general-industries/pulp-and-paper-industry"
-            },
-            {
-                "id": 310,
-                "EN": "Cranes",
-                "TH": "อุตสาหกรรมเครน",
-                "path": "/general-industries/cranes"
-            },
-            {
-                "id": 311,
-                "EN": "Cement",
-                "TH": "อุตสาหกรรมซีเมนต์",
-                "path": "/general-industries/cement"
-            },
-            {
-                "id": 312,
-                "EN": "Marine Gearboxes and Drives",
-                "TH": "Marine Gearboxes and Drives",
-                "path": "/general-industries/marine-gearboxes-and-drives"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "EN": "Product & Brochure",
-        "TH": "สินค้าและโบรชัวร์",
-        "path": "/product-brochure",
-        "submenu": [
-            {
-                "id": 41,
-                "EN": "Rotating Equipments",
-                "TH": "เครื่องจักรอุตสาหกรรม",
-                "path": "/product-brochure/rotating-equipments",
-                "submenu": [
-                    {
-                        "id": 411,
-                        "EN": "Sulzer",
-                        "TH": "Sulzer",
-                        "path": "/product-brochure/rotating-equipments/sulzer"
-                    },
-                    {
-                        "id": 412,
-                        "EN": "Kumera",
-                        "TH": "Kumera",
-                        "path": "/product-brochure/rotating-equipments/kumera"
-                    },
-                    {
-                        "id": 413,
-                        "EN": "Haier",
-                        "TH": "Haier",
-                        "path": "/product-brochure/rotating-equipments/haier"
-                    },
-                    {
-                        "id": 414,
-                        "EN": "Steinert",
-                        "TH": "Steinert",
-                        "path": "/product-brochure/rotating-equipments/steinert"
-                    },
-                    {
-                        "id": 415,
-                        "EN": "Kawasaki",
-                        "TH": "Kawasaki",
-                        "path": "/product-brochure/rotating-equipments/kawasaki"
-                    },
-                    {
-                        "id": 416,
-                        "EN": "Tasaki",
-                        "TH": "Tasaki",
-                        "path": "/product-brochure/rotating-equipments/tasaki"
-                    }
-                ]
-            },
-            {
-                "id": 42,
-                "EN": "Spare Parts & Consumable Parts",
-                "TH": "อะไหล่เครื่องจักร และ อะไหล่สิ้นเปลือง",
-                "path": "/product-brochure/spare-parts-consumable-parts",
-                "submenu": [
-                    {
-                        "id": 421,
-                        "EN": "Couplings",
-                        "TH": "Couplings",
-                        "path": "/product-brochure/spare-parts-consumable-parts/couplings"
-                    },
-                    {
-                        "id": 422,
-                        "EN": "Trislot",
-                        "TH": "Trislot",
-                        "path": "/product-brochure/spare-parts-consumable-parts/trislot"
-                    },
-                    {
-                        "id": 423,
-                        "EN": "Loctite",
-                        "TH": "Loctite",
-                        "path": "/product-brochure/spare-parts-consumable-parts/loctite"
-                    }
-                ]
-            },
-            {
-                "id": 43,
-                "EN": "Services & Overhaul",
-                "TH": "บริการและซ่อมบำรุงหลังการขาย",
-                "path": "/product-brochure/services-overhaul",
-                "submenu": [
-                    {
-                        "id": 433,
-                        "EN": "PR Rolls Indonesia",
-                        "TH": "PR Rolls Indonesia",
-                        "path": "/product-brochure/services-overhaul/pr-rolls-indonesia"
-                    }
-                ]
-            },
-            {
-                "id": 44,
-                "EN": "Waste Water Technology",
-                "TH": "เทคโนโลยี น้ำเสีย",
-                "path": "/product-brochure/veolia-water-treatment",
-                "submenu": [
-                    {
-                        "id": 441,
-                        "EN": "Actiflo – High Speed Water Clarifier",
-                        "TH": "Actiflo – High Speed Water Clarifier",
-                        "path": "/product-brochure/veolia-water-treatment/actiflo-high-speed-water-clarifier"
-                    },
-                    {
-                        "id": 442,
-                        "EN": "Hydrotech – Continuous Woven Screen Water Filter",
-                        "TH": "Hydrotech – Continuous Woven Screen Water Filter",
-                        "path": "/product-brochure/veolia-water-treatment/hydrotech-continuous-woven-screen-water-filter"
-                    },
-                    {
-                        "id": 443,
-                        "EN": "Sulzer HST Turbo Blower",
-                        "TH": "Sulzer HST Turbo Blower",
-                        "path": "/product-brochure/veolia-water-treatment/sulzer-hst-turbo-blower"
-                    },
-                    {
-                        "id": 444,
-                        "EN": "Sulzer XTR submersible aerator",
-                        "TH": "Sulzer XTR submersible aerator",
-                        "path": "/product-brochure/veolia-water-treatment/sulzer-xtr-submersible-aerator"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "EN": "Online Tools",
-        "TH": "เครื่องมือออนไลน์",
-        "path": "/online-tools"
-    },
-    {
-        "id": 6,
-        "EN": "Knowledge Center",
-        "TH": "สาระน่ารู้",
-        "path": "/knowledge-center",
-        "submenu": [
-            {
-                "id": 61,
-                "EN": "Sulzer",
-                "TH": "Sulzer",
-                "path": "/knowledge-center/sulzer",
-                "submenu": [
-                    {
-                        "id": 61,
-                        "EN": "Dynamic Seal",
-                        "TH": "Dynamic Seal",
-                        "path": "/knowledge-center/sulzer/dynamic-seal"
-                    },
-                    {
-                        "id": 62,
-                        "EN": "Sulzer Open Impeller",
-                        "TH": "Sulzer Open Impeller",
-                        "path": "/knowledge-center/sulzer/sulzer-open-impeller"
-                    },
-                    {
-                        "id": 63,
-                        "EN": "Self-Priming Pumps",
-                        "TH": "ปั๊ม Self-Priming",
-                        "path": "/knowledge-center/sulzer/self-priming-pumps"
-                    }
-                ]
-            },
-            {
-                "id": 62,
-                "EN": "Liquid Property",
-                "TH": "คุณสมบัติของของเหลว",
-                "path": "/knowledge-center/liquid-property"
-            },
-            {
-                "id": 63,
-                "EN": "Picture Library",
-                "TH": "คลังรูปภาพ",
-                "path": "/knowledge-center/picture-library",
-                "submenu": [
-                    {
-                        "id": 631,
-                        "EN": "Sulzer",
-                        "TH": "Sulzer",
-                        "path": "/knowledge-center/picture-library/sulzer",
-                        "submenu": [
-                            {
-                                "id": 6311,
-                                "EN": "Sulzer Pump",
-                                "TH": "ปั๊ม Sulzer",
-                                "path": "/knowledge-center/picture-library/sulzer/sulzer-pump",
-                                "submenu": [
-                                    {
-                                        "id": 631101,
-                                        "EN": "Axially Split Pumps",
-                                        "TH": "ปั๊ม Axially Split",
-                                        "path": "/knowledge-center/picture-library/sulzer/sulzer-pump/axially-split-pumps"
-                                    },
-                                    {
-                                        "id": 631102,
-                                        "EN": "Drainage Center-Line Pumps",
-                                        "TH": "ปั๊ม Drainage Center-Line",
-                                        "path": "/knowledge-center/picture-library/sulzer/sulzer-pump/drainage-center-line-pumps"
-                                    },
-                                    {
-                                        "id": 631103,
-                                        "EN": "Drainage Pumps",
-                                        "TH": "ปั๊ม Drainage",
-                                        "path": "/knowledge-center/picture-library/sulzer/sulzer-pump/drainage-pumps"
-                                    },
-                                    {
-                                        "id": 631104,
-                                        "EN": "Firewater Pumps",
-                                        "TH": "ปั๊ม Firewater",
-                                        "path": "/knowledge-center/picture-library/sulzer/sulzer-pump/firewater-pumps"
-                                    },
-                                    {
-                                        "id": 631105,
-                                        "EN": "High-Lift Centrifugal Pumps HPH and HPL",
-                                        "TH": "ปั๊ม High-Lift Centrifugal HPH และ HPL",
-                                        "path": "/knowledge-center/picture-library/sulzer/sulzer-pump/high-lift-centrifugal-pumps-hph-and-hpl"
-                                    },
-                                    {
-                                        "id": 631106,
-                                        "EN": "Multiphase Pumps",
-                                        "TH": "ปั๊ม Multiphase",
-                                        "path": "/knowledge-center/picture-library/sulzer/sulzer-pump/multiphase-pumps"
-                                    },
-                                    {
-                                        "id": 631107,
-                                        "EN": "Progressing Cavity Pumps",
-                                        "TH": "ปั๊ม Progressing Cavity",
-                                        "path": "/knowledge-center/picture-library/sulzer/sulzer-pump/progressing-cavity-pumps"
-                                    },
-                                    {
-                                        "id": 631108,
-                                        "EN": "Radial Split Pumps",
-                                        "TH": "ปั๊ม Radial Split",
-                                        "path": "/knowledge-center/picture-library/sulzer/sulzer-pump/radial-split-pumps"
-                                    },
-                                    {
-                                        "id": 631109,
-                                        "EN": "Ring Section Pumps",
-                                        "TH": "ปั๊ม Ring Section",
-                                        "path": "/knowledge-center/picture-library/sulzer/sulzer-pump/ring-section-pumps"
-                                    },
-                                    {
-                                        "id": 631110,
-                                        "EN": "Single Stage Centrifugal Pumps",
-                                        "TH": "ปั๊ม Single Stage Centrifugal",
-                                        "path": "/knowledge-center/picture-library/sulzer/sulzer-pump/single-stage-centrifugal-pumps"
-                                    },
-                                    {
-                                        "id": 631111,
-                                        "EN": "Sludge Pumps",
-                                        "TH": "ปั๊ม Sludge",
-                                        "path": "/knowledge-center/picture-library/sulzer/sulzer-pump/sludge-pumps"
-                                    },
-                                    {
-                                        "id": 631112,
-                                        "EN": "Slurry Pumps",
-                                        "TH": "ปั๊ม Slurry",
-                                        "path": "/knowledge-center/picture-library/sulzer/sulzer-pump/slurry-pumps"
-                                    },
-                                    {
-                                        "id": 631113,
-                                        "EN": "Two Stage Pumps",
-                                        "TH": "ปั๊ม Two Stage",
-                                        "path": "/knowledge-center/picture-library/sulzer/sulzer-pump/two-stage-pumps"
-                                    }
-                                ]
-                            },
-                            {
-                                "id": 6312,
-                                "EN": "Agitators, Dynamic Mixers",
-                                "TH": "Agitators, Dynamic Mixers",
-                                "path": "/knowledge-center/picture-library/sulzer/agitators-dynamic-mixers"
-                            },
-                            {
-                                "id": 6313,
-                                "EN": "Tower Management Systems",
-                                "TH": "Tower Management Systems",
-                                "path": "/knowledge-center/picture-library/sulzer/tower-management-systems"
-                            },
-                            {
-                                "id": 6314,
-                                "EN": "Compressors and Aeration",
-                                "TH": "Compressors and Aeration",
-                                "path": "/knowledge-center/picture-library/sulzer/compressors-and-aeration"
-                            },
-                            {
-                                "id": 6315,
-                                "EN": "Medium Consistency Products",
-                                "TH": "Medium Consistency Products",
-                                "path": "/knowledge-center/picture-library/sulzer/medium-consistency-products"
-                            },
-                            {
-                                "id": 6316,
-                                "EN": "Submersible Mixers",
-                                "TH": "Submersible Mixers",
-                                "path": "/knowledge-center/picture-library/sulzer/submersible-mixers"
-                            },
-                            {
-                                "id": 6317,
-                                "EN": "Pump and Lifting Station Accessories",
-                                "TH": "Pump and Lifting Station Accessories",
-                                "path": "/knowledge-center/picture-library/sulzer/pump-and-lifting-station-accessories"
-                            },
-                            {
-                                "id": 6318,
-                                "EN": "Lube-Oil-Systems-API-614",
-                                "TH": "Lube-Oil-Systems-API-614",
-                                "path": "/knowledge-center/picture-library/sulzer/lube-oil-systems-api-614"
-                            }
-                        ]
-                    },
-                    {
-                        "id": 632,
-                        "EN": "Kumera",
-                        "TH": "Kumera",
-                        "path": "/knowledge-center/picture-library/kumera",
-                        "submenu": [
-                            {
-                                "id": 6321,
-                                "EN": "Kumera Multi Stage Helical and Bevel-helical Gearboxes",
-                                "TH": "Kumera Multi Stage Helical and Bevel-helical Gearboxes",
-                                "path": "/knowledge-center/picture-library/kumera/kumera-multi-stage-helical-and-bevel-helical-gearboxes"
-                            },
-                            {
-                                "id": 6322,
-                                "EN": "Kumera One Stage Helical Gearboxes",
-                                "TH": "Kumera One Stage Helical Gearboxes",
-                                "path": "/knowledge-center/picture-library/kumera/kumera-one-stage-helical-gearboxes"
-                            },
-                            {
-                                "id": 6323,
-                                "EN": "One Stage Bevel Gearboxes",
-                                "TH": "One Stage Bevel Gearboxes",
-                                "path": "/knowledge-center/picture-library/kumera/one-stage-bevel-gearboxes"
-                            },
-                            {
-                                "id": 6324,
-                                "EN": "Girth Gear Drives",
-                                "TH": "Girth Gear Drives",
-                                "path": "/knowledge-center/picture-library/kumera/girth-gear-drives"
-                            },
-                            {
-                                "id": 6325,
-                                "EN": "Kumera Vertical Shaft Gearboxes",
-                                "TH": "Kumera Vertical Shaft Gearboxes",
-                                "path": "/knowledge-center/picture-library/kumera/kumera-vertical-shaft-gearboxes"
-                            },
-                            {
-                                "id": 6326,
-                                "EN": "Worm Gearboxes",
-                                "TH": "Worm Gearboxes",
-                                "path": "/knowledge-center/picture-library/kumera/worm-gearboxes"
-                            },
-                            {
-                                "id": 6327,
-                                "EN": "Custom Built Gearboxes",
-                                "TH": "Custom Built Gearboxes",
-                                "path": "/knowledge-center/picture-library/kumera/custom-built-gearboxes"
-                            },
-                            {
-                                "id": 6328,
-                                "EN": "Guard Gear – Online Condition Monitoring",
-                                "TH": "Guard Gear – Online Condition Monitoring",
-                                "path": "/knowledge-center/picture-library/kumera/guard-gear-online-condition-monitoring"
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "EN": "About",
-        "TH": "เกี่ยวกับเรา",
-        "path": "/about"
-    },
-    {
-        "id": 8,
-        "EN": "Contact",
-        "TH": "ติดต่อเรา",
-        "path": "/contact"
-    }
-]
+{
+    "EN": [
+        {
+            "id": 1,
+            "title": "Home",
+            "path": "/en/"
+        },
+        {
+            "id": 2,
+            "title": "Orders",
+            "path": "/en/orders"
+        },
+        {
+            "id": 3,
+            "title": "General Industries",
+            "path": "/en/general-industries",
+            "submenu": [
+                {
+                    "id": 301,
+                    "title": "Sugar",
+                    "path": "/en/general-industries/sugar",
+                    "submenu": [
+                        {
+                            "id": 3011,
+                            "title": "Pump",
+                            "path": "/en/general-industries/sugar/pump"
+                        }
+                    ]
+                },
+                {
+                    "id": 302,
+                    "title": "Starch",
+                    "path": "/en/general-industries/starch",
+                    "submenu": [
+                        {
+                            "id": 3012,
+                            "title": "Pump",
+                            "path": "/en/general-industries/starch/pump"
+                        }
+                    ]
+                },
+                {
+                    "id": 303,
+                    "title": "Biofuels",
+                    "path": "/en/general-industries/biofuels"
+                },
+                {
+                    "id": 304,
+                    "title": "Biomass Power",
+                    "path": "/en/general-industries/biomass-power"
+                },
+                {
+                    "id": 305,
+                    "title": "Bio Gas",
+                    "path": "/en/general-industries/bio-gas"
+                },
+                {
+                    "id": 306,
+                    "title": "Chemical Processing",
+                    "path": "/en/general-industries/chemical-processing"
+                },
+                {
+                    "id": 307,
+                    "title": "Metal & Steel",
+                    "path": "/en/general-industries/metal-and-steel"
+                },
+                {
+                    "id": 308,
+                    "title": "Mining",
+                    "path": "/en/general-industries/mining"
+                },
+                {
+                    "id": 309,
+                    "title": "Pulp & Paper Industry",
+                    "path": "/en/general-industries/pulp-and-paper-industry"
+                },
+                {
+                    "id": 310,
+                    "title": "Cranes",
+                    "path": "/en/general-industries/cranes"
+                },
+                {
+                    "id": 311,
+                    "title": "Cement",
+                    "path": "/en/general-industries/cement"
+                },
+                {
+                    "id": 312,
+                    "title": "Marine Gearboxes and Drives",
+                    "path": "/en/general-industries/marine-gearboxes-and-drives"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Product & Brochure",
+            "path": "/en/product-brochure",
+            "submenu": [
+                {
+                    "id": 41,
+                    "title": "Rotating Equipments",
+                    "path": "/en/product-brochure/rotating-equipments",
+                    "submenu": [
+                        {
+                            "id": 411,
+                            "title": "Sulzer",
+                            "path": "/en/product-brochure/rotating-equipments/sulzer"
+                        },
+                        {
+                            "id": 412,
+                            "title": "Kumera",
+                            "path": "/en/product-brochure/rotating-equipments/kumera"
+                        },
+                        {
+                            "id": 413,
+                            "title": "Haier",
+                            "path": "/en/product-brochure/rotating-equipments/haier"
+                        },
+                        {
+                            "id": 414,
+                            "title": "Steinert",
+                            "path": "/en/product-brochure/rotating-equipments/steinert"
+                        },
+                        {
+                            "id": 415,
+                            "title": "Kawasaki",
+                            "path": "/en/product-brochure/rotating-equipments/kawasaki"
+                        },
+                        {
+                            "id": 416,
+                            "title": "Tasaki",
+                            "path": "/en/product-brochure/rotating-equipments/tasaki"
+                        }
+                    ]
+                },
+                {
+                    "id": 42,
+                    "title": "Spare Parts & Consumable Parts",
+                    "path": "/en/product-brochure/spare-parts-consumable-parts",
+                    "submenu": [
+                        {
+                            "id": 421,
+                            "title": "Couplings",
+                            "path": "/en/product-brochure/spare-parts-consumable-parts/couplings"
+                        },
+                        {
+                            "id": 422,
+                            "title": "Trislot",
+                            "path": "/en/product-brochure/spare-parts-consumable-parts/trislot"
+                        },
+                        {
+                            "id": 423,
+                            "title": "Loctite",
+                            "path": "/en/product-brochure/spare-parts-consumable-parts/loctite"
+                        }
+                    ]
+                },
+                {
+                    "id": 43,
+                    "title": "Services & Overhaul",
+                    "path": "/en/product-brochure/services-overhaul",
+                    "submenu": [
+                        {
+                            "id": 433,
+                            "title": "PR Rolls Indonesia",
+                            "path": "/en/product-brochure/services-overhaul/pr-rolls-indonesia"
+                        }
+                    ]
+                },
+                {
+                    "id": 44,
+                    "title": "Waste Water Technology",
+                    "path": "/en/product-brochure/veolia-water-treatment",
+                    "submenu": [
+                        {
+                            "id": 441,
+                            "title": "Actiflo – High Speed Water Clarifier",
+                            "path": "/en/product-brochure/veolia-water-treatment/actiflo-high-speed-water-clarifier"
+                        },
+                        {
+                            "id": 442,
+                            "title": "Hydrotech – Continuous Woven Screen Water Filter",
+                            "path": "/en/product-brochure/veolia-water-treatment/hydrotech-continuous-woven-screen-water-filter"
+                        },
+                        {
+                            "id": 443,
+                            "title": "Sulzer HST Turbo Blower",
+                            "path": "/en/product-brochure/veolia-water-treatment/sulzer-hst-turbo-blower"
+                        },
+                        {
+                            "id": 444,
+                            "title": "Sulzer XTR submersible aerator",
+                            "path": "/en/product-brochure/veolia-water-treatment/sulzer-xtr-submersible-aerator"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Online Tools",
+            "path": "/en/online-tools"
+        },
+        {
+            "id": 6,
+            "title": "Knowledge Center",
+            "path": "/en/knowledge-center",
+            "submenu": [
+                {
+                    "id": 61,
+                    "title": "Sulzer",
+                    "path": "/en/knowledge-center/sulzer",
+                    "submenu": [
+                        {
+                            "id": 61,
+                            "title": "Dynamic Seal",
+                            "path": "/en/knowledge-center/sulzer/dynamic-seal"
+                        },
+                        {
+                            "id": 62,
+                            "title": "Sulzer Open Impeller",
+                            "path": "/en/knowledge-center/sulzer/sulzer-open-impeller"
+                        },
+                        {
+                            "id": 63,
+                            "title": "Self-Priming Pumps",
+                            "path": "/en/knowledge-center/sulzer/self-priming-pumps"
+                        }
+                    ]
+                },
+                {
+                    "id": 62,
+                    "title": "Liquid Property",
+                    "path": "/en/knowledge-center/liquid-property"
+                },
+                {
+                    "id": 63,
+                    "title": "Picture Library",
+                    "path": "/en/knowledge-center/picture-library",
+                    "submenu": [
+                        {
+                            "id": 631,
+                            "title": "Sulzer",
+                            "path": "/en/knowledge-center/picture-library/sulzer",
+                            "submenu": [
+                                {
+                                    "id": 6311,
+                                    "title": "Sulzer Pump",
+                                    "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump",
+                                    "submenu": [
+                                        {
+                                            "id": 631101,
+                                            "title": "Axially Split Pumps",
+                                            "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump/axially-split-pumps"
+                                        },
+                                        {
+                                            "id": 631102,
+                                            "title": "Drainage Center-Line Pumps",
+                                            "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump/drainage-center-line-pumps"
+                                        },
+                                        {
+                                            "id": 631103,
+                                            "title": "Drainage Pumps",
+                                            "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump/drainage-pumps"
+                                        },
+                                        {
+                                            "id": 631104,
+                                            "title": "Firewater Pumps",
+                                            "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump/firewater-pumps"
+                                        },
+                                        {
+                                            "id": 631105,
+                                            "title": "High-Lift Centrifugal Pumps HPH and HPL",
+                                            "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump/high-lift-centrifugal-pumps-hph-and-hpl"
+                                        },
+                                        {
+                                            "id": 631106,
+                                            "title": "Multiphase Pumps",
+                                            "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump/multiphase-pumps"
+                                        },
+                                        {
+                                            "id": 631107,
+                                            "title": "Progressing Cavity Pumps",
+                                            "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump/progressing-cavity-pumps"
+                                        },
+                                        {
+                                            "id": 631108,
+                                            "title": "Radial Split Pumps",
+                                            "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump/radial-split-pumps"
+                                        },
+                                        {
+                                            "id": 631109,
+                                            "title": "Ring Section Pumps",
+                                            "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump/ring-section-pumps"
+                                        },
+                                        {
+                                            "id": 631110,
+                                            "title": "Single Stage Centrifugal Pumps",
+                                            "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump/single-stage-centrifugal-pumps"
+                                        },
+                                        {
+                                            "id": 631111,
+                                            "title": "Sludge Pumps",
+                                            "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump/sludge-pumps"
+                                        },
+                                        {
+                                            "id": 631112,
+                                            "title": "Slurry Pumps",
+                                            "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump/slurry-pumps"
+                                        },
+                                        {
+                                            "id": 631113,
+                                            "title": "Two Stage Pumps",
+                                            "path": "/en/knowledge-center/picture-library/sulzer/sulzer-pump/two-stage-pumps"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 6312,
+                                    "title": "Agitators, Dynamic Mixers",
+                                    "path": "/en/knowledge-center/picture-library/sulzer/agitators-dynamic-mixers"
+                                },
+                                {
+                                    "id": 6313,
+                                    "title": "Tower Management Systems",
+                                    "path": "/en/knowledge-center/picture-library/sulzer/tower-management-systems"
+                                },
+                                {
+                                    "id": 6314,
+                                    "title": "Compressors and Aeration",
+                                    "path": "/en/knowledge-center/picture-library/sulzer/compressors-and-aeration"
+                                },
+                                {
+                                    "id": 6315,
+                                    "title": "Medium Consistency Products",
+                                    "path": "/en/knowledge-center/picture-library/sulzer/medium-consistency-products"
+                                },
+                                {
+                                    "id": 6316,
+                                    "title": "Submersible Mixers",
+                                    "path": "/en/knowledge-center/picture-library/sulzer/submersible-mixers"
+                                },
+                                {
+                                    "id": 6317,
+                                    "title": "Pump and Lifting Station Accessories",
+                                    "path": "/en/knowledge-center/picture-library/sulzer/pump-and-lifting-station-accessories"
+                                },
+                                {
+                                    "id": 6318,
+                                    "title": "Lube-Oil-Systems-API-614",
+                                    "path": "/en/knowledge-center/picture-library/sulzer/lube-oil-systems-api-614"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 632,
+                            "title": "Kumera",
+                            "path": "/en/knowledge-center/picture-library/kumera",
+                            "submenu": [
+                                {
+                                    "id": 6321,
+                                    "title": "Kumera Multi Stage Helical and Bevel-helical Gearboxes",
+                                    "path": "/en/knowledge-center/picture-library/kumera/kumera-multi-stage-helical-and-bevel-helical-gearboxes"
+                                },
+                                {
+                                    "id": 6322,
+                                    "title": "Kumera One Stage Helical Gearboxes",
+                                    "path": "/en/knowledge-center/picture-library/kumera/kumera-one-stage-helical-gearboxes"
+                                },
+                                {
+                                    "id": 6323,
+                                    "title": "One Stage Bevel Gearboxes",
+                                    "path": "/en/knowledge-center/picture-library/kumera/one-stage-bevel-gearboxes"
+                                },
+                                {
+                                    "id": 6324,
+                                    "title": "Girth Gear Drives",
+                                    "path": "/en/knowledge-center/picture-library/kumera/girth-gear-drives"
+                                },
+                                {
+                                    "id": 6325,
+                                    "title": "Kumera Vertical Shaft Gearboxes",
+                                    "path": "/en/knowledge-center/picture-library/kumera/kumera-vertical-shaft-gearboxes"
+                                },
+                                {
+                                    "id": 6326,
+                                    "title": "Worm Gearboxes",
+                                    "path": "/en/knowledge-center/picture-library/kumera/worm-gearboxes"
+                                },
+                                {
+                                    "id": 6327,
+                                    "title": "Custom Built Gearboxes",
+                                    "path": "/en/knowledge-center/picture-library/kumera/custom-built-gearboxes"
+                                },
+                                {
+                                    "id": 6328,
+                                    "title": "Guard Gear – Online Condition Monitoring",
+                                    "path": "/en/knowledge-center/picture-library/kumera/guard-gear-online-condition-monitoring"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "About",
+            "path": "/en/about"
+        },
+        {
+            "id": 8,
+            "title": "Contact",
+            "path": "/en/contact"
+        }
+    ],
+    "TH": [
+        {
+            "id": 1,
+            "title": "หน้าหลัก",
+            "path": "/th/"
+        },
+        {
+            "id": 2,
+            "title": "สั่งสินค้า",
+            "path": "/th/orders"
+        },
+        {
+            "id": 3,
+            "title": "อุตสาหกรรมทั่วไป",
+            "path": "/th/general-industries",
+            "submenu": [
+                {
+                    "id": 301,
+                    "title": "อุตสาหกรรมน้ำตาล",
+                    "path": "/th/general-industries/sugar",
+                    "submenu": [
+                        {
+                            "id": 3011,
+                            "title": "ปั๊ม",
+                            "path": "/th/general-industries/sugar/pump"
+                        }
+                    ]
+                },
+                {
+                    "id": 302,
+                    "title": "อุตสาหกรรมแป้ง",
+                    "path": "/th/general-industries/starch",
+                    "submenu": [
+                        {
+                            "id": 3012,
+                            "title": "ปั๊ม",
+                            "path": "/th/general-industries/starch/pump"
+                        }
+                    ]
+                },
+                {
+                    "id": 303,
+                    "title": "อุตสาหกรรมน้ำมันชีวภาพ",
+                    "path": "/th/general-industries/biofuels"
+                },
+                {
+                    "id": 304,
+                    "title": "อุตสาหกรรมไฟฟ้าชีวมวล",
+                    "path": "/th/general-industries/biomass-power"
+                },
+                {
+                    "id": 305,
+                    "title": "อุตสาหกรรมแก๊สชีวมวล",
+                    "path": "/th/general-industries/bio-gas"
+                },
+                {
+                    "id": 306,
+                    "title": "อุตสาหกรรมเคมี",
+                    "path": "/th/general-industries/chemical-processing"
+                },
+                {
+                    "id": 307,
+                    "title": "อุตสาหกรรมอะโลหะและเหล็ก",
+                    "path": "/th/general-industries/metal-and-steel"
+                },
+                {
+                    "id": 308,
+                    "title": "อุตสาหกรรมเหมืองแร่",
+                    "path": "/th/general-industries/mining"
+                },
+                {
+                    "id": 309,
+                    "title": "อุตสาหกรรมเยื้อกระดาษและกระดาษ",
+                    "path": "/th/general-industries/pulp-and-paper-industry"
+                },
+                {
+                    "id": 310,
+                    "title": "อุตสาหกรรมเครน",
+                    "path": "/th/general-industries/cranes"
+                },
+                {
+                    "id": 311,
+                    "title": "อุตสาหกรรมซีเมนต์",
+                    "path": "/th/general-industries/cement"
+                },
+                {
+                    "id": 312,
+                    "title": "Marine Gearboxes and Drives",
+                    "path": "/th/general-industries/marine-gearboxes-and-drives"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "สินค้าและโบรชัวร์",
+            "path": "/th/product-brochure",
+            "submenu": [
+                {
+                    "id": 41,
+                    "title": "เครื่องจักรอุตสาหกรรม",
+                    "path": "/th/product-brochure/rotating-equipments",
+                    "submenu": [
+                        {
+                            "id": 411,
+                            "title": "Sulzer",
+                            "path": "/th/product-brochure/rotating-equipments/sulzer"
+                        },
+                        {
+                            "id": 412,
+                            "title": "Kumera",
+                            "path": "/th/product-brochure/rotating-equipments/kumera"
+                        },
+                        {
+                            "id": 413,
+                            "title": "Haier",
+                            "path": "/th/product-brochure/rotating-equipments/haier"
+                        },
+                        {
+                            "id": 414,
+                            "title": "Steinert",
+                            "path": "/th/product-brochure/rotating-equipments/steinert"
+                        },
+                        {
+                            "id": 415,
+                            "title": "Kawasaki",
+                            "path": "/th/product-brochure/rotating-equipments/kawasaki"
+                        },
+                        {
+                            "id": 416,
+                            "title": "Tasaki",
+                            "path": "/th/product-brochure/rotating-equipments/tasaki"
+                        }
+                    ]
+                },
+                {
+                    "id": 42,
+                    "title": "อะไหล่เครื่องจักร และ อะไหล่สิ้นเปลือง",
+                    "path": "/th/product-brochure/spare-parts-consumable-parts",
+                    "submenu": [
+                        {
+                            "id": 421,
+                            "title": "Couplings",
+                            "path": "/th/product-brochure/spare-parts-consumable-parts/couplings"
+                        },
+                        {
+                            "id": 422,
+                            "title": "Trislot",
+                            "path": "/th/product-brochure/spare-parts-consumable-parts/trislot"
+                        },
+                        {
+                            "id": 423,
+                            "title": "Loctite",
+                            "path": "/th/product-brochure/spare-parts-consumable-parts/loctite"
+                        }
+                    ]
+                },
+                {
+                    "id": 43,
+                    "title": "บริการและซ่อมบำรุงหลังการขาย",
+                    "path": "/th/product-brochure/services-overhaul",
+                    "submenu": [
+                        {
+                            "id": 433,
+                            "title": "PR Rolls Indonesia",
+                            "path": "/th/product-brochure/services-overhaul/pr-rolls-indonesia"
+                        }
+                    ]
+                },
+                {
+                    "id": 44,
+                    "title": "เทคโนโลยี น้ำเสีย",
+                    "path": "/th/product-brochure/veolia-water-treatment",
+                    "submenu": [
+                        {
+                            "id": 441,
+                            "title": "Actiflo – High Speed Water Clarifier",
+                            "path": "/th/product-brochure/veolia-water-treatment/actiflo-high-speed-water-clarifier"
+                        },
+                        {
+                            "id": 442,
+                            "title": "Hydrotech – Continuous Woven Screen Water Filter",
+                            "path": "/th/product-brochure/veolia-water-treatment/hydrotech-continuous-woven-screen-water-filter"
+                        },
+                        {
+                            "id": 443,
+                            "title": "Sulzer HST Turbo Blower",
+                            "path": "/th/product-brochure/veolia-water-treatment/sulzer-hst-turbo-blower"
+                        },
+                        {
+                            "id": 444,
+                            "title": "Sulzer XTR submersible aerator",
+                            "path": "/th/product-brochure/veolia-water-treatment/sulzer-xtr-submersible-aerator"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "เครื่องมือออนไลน์",
+            "path": "/th/online-tools"
+        },
+        {
+            "id": 6,
+            "title": "สาระน่ารู้",
+            "path": "/th/knowledge-center",
+            "submenu": [
+                {
+                    "id": 61,
+                    "title": "Sulzer",
+                    "path": "/th/knowledge-center/sulzer",
+                    "submenu": [
+                        {
+                            "id": 61,
+                            "title": "Dynamic Seal",
+                            "path": "/th/knowledge-center/sulzer/dynamic-seal"
+                        },
+                        {
+                            "id": 62,
+                            "title": "Sulzer Open Impeller",
+                            "path": "/th/knowledge-center/sulzer/sulzer-open-impeller"
+                        },
+                        {
+                            "id": 63,
+                            "title": "ปั๊ม Self-Priming",
+                            "path": "/th/knowledge-center/sulzer/self-priming-pumps"
+                        }
+                    ]
+                },
+                {
+                    "id": 62,
+                    "title": "คุณสมบัติของของเหลว",
+                    "path": "/th/knowledge-center/liquid-property"
+                },
+                {
+                    "id": 63,
+                    "title": "คลังรูปภาพ",
+                    "path": "/th/knowledge-center/picture-library",
+                    "submenu": [
+                        {
+                            "id": 631,
+                            "title": "Sulzer",
+                            "path": "/th/knowledge-center/picture-library/sulzer",
+                            "submenu": [
+                                {
+                                    "id": 6311,
+                                    "title": "ปั๊ม Sulzer",
+                                    "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump",
+                                    "submenu": [
+                                        {
+                                            "id": 631101,
+                                            "title": "ปั๊ม Axially Split",
+                                            "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump/axially-split-pumps"
+                                        },
+                                        {
+                                            "id": 631102,
+                                            "title": "ปั๊ม Drainage Center-Line",
+                                            "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump/drainage-center-line-pumps"
+                                        },
+                                        {
+                                            "id": 631103,
+                                            "title": "ปั๊ม Drainage",
+                                            "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump/drainage-pumps"
+                                        },
+                                        {
+                                            "id": 631104,
+                                            "title": "ปั๊ม Firewater",
+                                            "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump/firewater-pumps"
+                                        },
+                                        {
+                                            "id": 631105,
+                                            "title": "ปั๊ม High-Lift Centrifugal HPH และ HPL",
+                                            "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump/high-lift-centrifugal-pumps-hph-and-hpl"
+                                        },
+                                        {
+                                            "id": 631106,
+                                            "title": "ปั๊ม Multiphase",
+                                            "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump/multiphase-pumps"
+                                        },
+                                        {
+                                            "id": 631107,
+                                            "title": "ปั๊ม Progressing Cavity",
+                                            "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump/progressing-cavity-pumps"
+                                        },
+                                        {
+                                            "id": 631108,
+                                            "title": "ปั๊ม Radial Split",
+                                            "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump/radial-split-pumps"
+                                        },
+                                        {
+                                            "id": 631109,
+                                            "title": "ปั๊ม Ring Section",
+                                            "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump/ring-section-pumps"
+                                        },
+                                        {
+                                            "id": 631110,
+                                            "title": "ปั๊ม Single Stage Centrifugal",
+                                            "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump/single-stage-centrifugal-pumps"
+                                        },
+                                        {
+                                            "id": 631111,
+                                            "title": "ปั๊ม Sludge",
+                                            "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump/sludge-pumps"
+                                        },
+                                        {
+                                            "id": 631112,
+                                            "title": "ปั๊ม Slurry",
+                                            "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump/slurry-pumps"
+                                        },
+                                        {
+                                            "id": 631113,
+                                            "title": "ปั๊ม Two Stage",
+                                            "path": "/th/knowledge-center/picture-library/sulzer/sulzer-pump/two-stage-pumps"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 6312,
+                                    "title": "Agitators, Dynamic Mixers",
+                                    "path": "/th/knowledge-center/picture-library/sulzer/agitators-dynamic-mixers"
+                                },
+                                {
+                                    "id": 6313,
+                                    "title": "Tower Management Systems",
+                                    "path": "/th/knowledge-center/picture-library/sulzer/tower-management-systems"
+                                },
+                                {
+                                    "id": 6314,
+                                    "title": "Compressors and Aeration",
+                                    "path": "/th/knowledge-center/picture-library/sulzer/compressors-and-aeration"
+                                },
+                                {
+                                    "id": 6315,
+                                    "title": "Medium Consistency Products",
+                                    "path": "/th/knowledge-center/picture-library/sulzer/medium-consistency-products"
+                                },
+                                {
+                                    "id": 6316,
+                                    "title": "Submersible Mixers",
+                                    "path": "/th/knowledge-center/picture-library/sulzer/submersible-mixers"
+                                },
+                                {
+                                    "id": 6317,
+                                    "title": "Pump and Lifting Station Accessories",
+                                    "path": "/th/knowledge-center/picture-library/sulzer/pump-and-lifting-station-accessories"
+                                },
+                                {
+                                    "id": 6318,
+                                    "title": "Lube-Oil-Systems-API-614",
+                                    "path": "/th/knowledge-center/picture-library/sulzer/lube-oil-systems-api-614"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 632,
+                            "title": "Kumera",
+                            "path": "/th/knowledge-center/picture-library/kumera",
+                            "submenu": [
+                                {
+                                    "id": 6321,
+                                    "title": "Kumera Multi Stage Helical and Bevel-helical Gearboxes",
+                                    "path": "/th/knowledge-center/picture-library/kumera/kumera-multi-stage-helical-and-bevel-helical-gearboxes"
+                                },
+                                {
+                                    "id": 6322,
+                                    "title": "Kumera One Stage Helical Gearboxes",
+                                    "path": "/th/knowledge-center/picture-library/kumera/kumera-one-stage-helical-gearboxes"
+                                },
+                                {
+                                    "id": 6323,
+                                    "title": "One Stage Bevel Gearboxes",
+                                    "path": "/th/knowledge-center/picture-library/kumera/one-stage-bevel-gearboxes"
+                                },
+                                {
+                                    "id": 6324,
+                                    "title": "Girth Gear Drives",
+                                    "path": "/th/knowledge-center/picture-library/kumera/girth-gear-drives"
+                                },
+                                {
+                                    "id": 6325,
+                                    "title": "Kumera Vertical Shaft Gearboxes",
+                                    "path": "/th/knowledge-center/picture-library/kumera/kumera-vertical-shaft-gearboxes"
+                                },
+                                {
+                                    "id": 6326,
+                                    "title": "Worm Gearboxes",
+                                    "path": "/th/knowledge-center/picture-library/kumera/worm-gearboxes"
+                                },
+                                {
+                                    "id": 6327,
+                                    "title": "Custom Built Gearboxes",
+                                    "path": "/th/knowledge-center/picture-library/kumera/custom-built-gearboxes"
+                                },
+                                {
+                                    "id": 6328,
+                                    "title": "Guard Gear – Online Condition Monitoring",
+                                    "path": "/th/knowledge-center/picture-library/kumera/guard-gear-online-condition-monitoring"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "เกี่ยวกับเรา",
+            "path": "/th/about"
+        },
+        {
+            "id": 8,
+            "title": "ติดต่อเรา",
+            "path": "/th/contact"
+        }
+    ]
+}
