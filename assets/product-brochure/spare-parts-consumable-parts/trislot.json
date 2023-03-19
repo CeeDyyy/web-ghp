@@ -1,0 +1,26 @@
+{
+    "EN": {
+        "heading": "Product & Brochure",
+        "title": "Trislot",
+        "logo": "https://www.upkasia.com/wp-content/uploads/2015/05/TRISLOT.jpg",
+        "list": [
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/07/Brochure-of-TRISLOT.jpg",
+                "title": "Trislot",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2SVdOTEk2bW40ams/view?usp=sharing"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Product & Brochure",
+        "title": "Trislot",
+        "logo": "https://www.upkasia.com/wp-content/uploads/2015/05/TRISLOT.jpg",
+        "list": [
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/07/Brochure-of-TRISLOT.jpg",
+                "title": "Trislot",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2SVdOTEk2bW40ams/view?usp=sharing"
+            }
+        ]
+    }
+}

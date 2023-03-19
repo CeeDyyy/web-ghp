@@ -1,0 +1,66 @@
+{
+    "EN": {
+        "heading": "Product & Brochure",
+        "title": "KAWASAKI",
+        "logo": "https://www.upkasia.com/wp-content/uploads/2017/08/%E0%B8%B2%E0%B8%B1%E0%B9%80.png",
+        "list": [
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/08/Catalogue_Efficio_Nov-2015_Page_01.jpg",
+                "title": "Efficio",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/08/Catalogue_Efficio_Nov-2015.pdf"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/08/Untitled-1.png",
+                "title": "KAWASAKI GAS TURBINE GENERATOR SETS",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/08/Gas-turbine_Brochure-KAWASAKI..pdf"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/08/Kawasaki-Green-Gas-Engine-Leaflet-with-SGP_201306_Page_1.jpg",
+                "title": "The World Best Performance Electrical Efficiency 49% NOx (at O₂ = 0%) ≤ 200 ppm",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/08/Kawasaki-Green-Gas-Engine-Leaflet-with-SGP_201306.pdf"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/08/Steam-Turbine-Catalogue-KAWASAKI_Page_01.jpg",
+                "title": "KAWASAKI INDUSTRIAL STEAM TURBINE",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/08/Steam-Turbine-Catalogue-KAWASAKI.pdf"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/08/KAWASAKI-Presentation_Page_1.jpg",
+                "title": "Various energy sources can be utilized",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/08/KAWASAKI-Presentation.pdf"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Product & Brochure",
+        "title": "KAWASAKI",
+        "logo": "https://www.upkasia.com/wp-content/uploads/2017/08/%E0%B8%B2%E0%B8%B1%E0%B9%80.png",
+        "list": [
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/08/Catalogue_Efficio_Nov-2015_Page_01.jpg",
+                "title": "Efficio",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/08/Catalogue_Efficio_Nov-2015.pdf"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/08/Untitled-1.png",
+                "title": "KAWASAKI GAS TURBINE GENERATOR SETS",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/08/Gas-turbine_Brochure-KAWASAKI..pdf"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/08/Kawasaki-Green-Gas-Engine-Leaflet-with-SGP_201306_Page_1.jpg",
+                "title": "The World Best Performance Electrical Efficiency 49% NOx (at O₂ = 0%) ≤ 200 ppm",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/08/Kawasaki-Green-Gas-Engine-Leaflet-with-SGP_201306.pdf"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/08/Steam-Turbine-Catalogue-KAWASAKI_Page_01.jpg",
+                "title": "KAWASAKI INDUSTRIAL STEAM TURBINE",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/08/Steam-Turbine-Catalogue-KAWASAKI.pdf"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/08/KAWASAKI-Presentation_Page_1.jpg",
+                "title": "Various energy sources can be utilized",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/08/KAWASAKI-Presentation.pdf"
+            }
+        ]
+    }
+}

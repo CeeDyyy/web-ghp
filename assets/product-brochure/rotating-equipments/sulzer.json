@@ -1,0 +1,436 @@
+{
+    "EN": {
+        "heading": "Product & Brochure",
+        "title": "SULZER",
+        "logo": "https://www.upkasia.com/wp-content/uploads/2015/05/logo-sulzer-2-300x113.png",
+        "list": [
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ahlstar-1.jpg",
+                "title": "AHLSTAR™ Process Pumps",
+                "url": "https://www.sulzer.com/-/media/files/products/pumps/single-stage-pumps/brochures/ahlstarendsuctionsinglestage_e10083.ashx?la=en"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Ahlstar_pp_E00545.jpg",
+                "title": "AHLSTAR™ Process Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2dDdHRWhmNUQ5bEk/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Cantilever-brochure.jpg",
+                "title": "AHLSTAR™  NKP/WKP Non-Clogging Cantilever Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2eF9fYVg3bHpaR1k/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/CPT_brochure.jpg",
+                "title": "ANSI Process Pumps CPT Advantage",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2U015STk5MDNPQWs/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/DynamicSeal_E00530-Brochure.jpg",
+                "title": "Dynamically Sealed AHLSTAR™ Process Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2TDUtWmF5ZzlSdTQ/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/energy-savings.jpg",
+                "title": "Energy Saving through Internal Flows in Stock Tank",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2OWlOZUxKOXVUeG8/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/MBN_E00657-Multistage-Pump.jpg",
+                "title": "MBN Multistage Ring Section Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2dEJ3Y2RvaGloSXc/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/NewServiceKits_E00605..jpg",
+                "title": "Service Kits for Sulzer Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2bGQyQmZaM0xFa0E/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/slf.jpg",
+                "title": "Sulzer Pumps SALOMIX® SLF Agitator",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2bklMSDY1S3hzZ3M/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/slg.jpg",
+                "title": "Sulzer Pumps SALOMIX® SLG Agitator Gear Drive",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2dzktYVlqcE1iblk/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/SulzerASME_B73_CPT_Pump_ForThePetroleumIndustry_E00599.jpg",
+                "title": "Sulzer ASME B73.1 CPT Pump for the Petroleum Industry",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2b1F2ZjdnM3I4MVE/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/TES.jpg",
+                "title": "Sulzer Pumps SALOMIX™ Top Entry Spreader",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2MDlkMTBMai0td28/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/vertical-agitator-en.jpg",
+                "title": "Sulzer Pumps SALOMIX™ Vertical Agitator",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2bzlzY2hXTlNPLWs/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ServiceKits_AHLSTAR_en_E10047_12_20091.jpg",
+                "title": "Service Kits for AHLSTAR™ Process Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2YmRES2hQZ2hCVU0/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ServiceKits_AUP_en_E10041_12_2009.jpg",
+                "title": "Service Kits for AHLSTAR™ Process Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2TDBOZzNGRmViWk0/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ServiceKits_ZPP_en_E10042_12_2009.jpg",
+                "title": "Service Kits for AHLSTAR™ Process Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2b3RfQmc1UGN2SHc/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Shaft-Seal-Service-Kits-for-SL-Agitators.jpg",
+                "title": "Sulzer Pumps Shaft Seal Service Kits for SL Agitators",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2MHpLMTNkQlM4NWM/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/AHLSTAREndSuctionSingleStage_E10083.jpg",
+                "title": "AHLSTAR End Suction Single Stage Centrifugal Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2SnJVaDdienlmSjg/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/AluminaAndAluminumApplications_E00591.jpg",
+                "title": "Sulzer Pumps for Alumina and Aluminum Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2VlJJb0NPXzFnZFk/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/CastMaterials_E00510.jpg",
+                "title": "Cast Materials",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2dlBNMVB2Y0pQdlk/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Copper_E00645.jpg",
+                "title": "Sulzer Pumps for Copper Refining Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2Q0F5QUpTUWR3THM/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Cutting_Edge_Pumping_and_Mixing_Solutions_for_the_Food_Processing_Industry_E10274.jpg",
+                "title": "Cutting-Edge Pumping and Mixing Solutions for the Food Processing Industry",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2cDNZODhUc0hUSjQ/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Desalination_E00551.jpg",
+                "title": "Pumping Solutions for Desalination and Water Reuse",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2Z0ZVOGxMYTlKd28/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/HelicalTwisted_E00636.jpg",
+                "title": "Helical Twisted Roots Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2S1ItSW1HbFNIaFk/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Multinutrient_Fert_Appl_E00617.jpg",
+                "title": "Sulzer Pumps for Multinutrient Fertilizer Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2Y1hQZFVncDdjak0/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/NickelApplications_E10159.jpg",
+                "title": "Sulzer Pumps for Nickel Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2VjQ3bVIwNnBTZDg/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Phosphoric_Acid_E00722.jpg",
+                "title": "Sulzer Pumps for Phosphoric Acid Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2b2JOWXcxOUZoOU0/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ProcessPumpsAndEquipmentForBiofuels_E10076.jpg",
+                "title": "Process Pumps Equipment for Biofuels Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2aEh6dE02cVJXeDA/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/PumpingAndMixingSpecialistsForTheCPI_en_E10272.jpg",
+                "title": "Pumping and Mixing Specialists for the Chemical Process Industry",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2cUMwTTEtZGZsNDQ/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/SalesProgram_E00543.jpg",
+                "title": "Sales Program of Pumps Equipment",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2TzVTZlBVUXQtbGs/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ServiceKitForSulzer_SNS_E10362.jpg",
+                "title": "Service Kits for SNS Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2SVBYVEZrd1JReGs/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ServiceKitsForSPAndAgitators_E10046.jpg",
+                "title": "Service Kits for Sulzer Pumps and Agitators",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2ZlR6MllURzc4YkU/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/SIL_InlineSingleStageCentrifugalPumps_E10385.jpg",
+                "title": "SIL Inline Sungle Stage Centrifugal Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2Ylo2bUljRWgxRXM/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/SNS_SingleStageCentrifugalPumps_E10333.jpg",
+                "title": "SNS End Suction Single Stage Centrifugal Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2VDQ0dzRqWGhHQW8/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/SolutionsForMiningAndMetalsProcessing_E10132.jpg",
+                "title": "Pumping Solutions for Mining and Metals Processing",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2THlqU0pyWU55czg/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/STR_VerticalTurbinePump_E10130.jpg",
+                "title": "STR Vertical Turbine Pump",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2TEJLV01pWV9KTEE/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/SulzerNitricAcid_N12796.jpg",
+                "title": "Sulzer Pumps for Nitric Acid Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2MlJQQXJEbnNXVlE/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/TB1_TBF1_TB2_Ready_fittedMechanicalSeals_E10240.jpg",
+                "title": "TB1, TB1F and TB2 Ready-fitted Mechanical Seals for AHLSTAR Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2Y3R0U3REQi1LTXc/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/TransformerOilCirculationPumpsVMOA_E10121.jpg",
+                "title": "VMOA Transformer Oil Circulation Pump",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2Zl9Vc1pIZ0NadWM/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/VerticalPumpRanges_E10010.jpg",
+                "title": "Vertical Pump Ranges",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2U21KSnFsVzkzZ2s/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/VMS_VerticalMultistagePumps_E10416.jpg",
+                "title": "VMS Vertical Multistage Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2WU9XTXpXN3l4WDA/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/WastewaterTreatment_E10316.jpg",
+                "title": "Driving Innovation in Wastewater Treatment",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2OWpzZ2RBYU16ZGM/view?usp=sharing"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Product & Brochure",
+        "title": "SULZER",
+        "logo": "https://www.upkasia.com/wp-content/uploads/2015/05/logo-sulzer-2-300x113.png",
+        "list": [
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ahlstar-1.jpg",
+                "title": "AHLSTAR™ Process Pumps",
+                "url": "https://www.sulzer.com/-/media/files/products/pumps/single-stage-pumps/brochures/ahlstarendsuctionsinglestage_e10083.ashx?la=en"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Ahlstar_pp_E00545.jpg",
+                "title": "AHLSTAR™ Process Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2dDdHRWhmNUQ5bEk/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Cantilever-brochure.jpg",
+                "title": "AHLSTAR™  NKP/WKP Non-Clogging Cantilever Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2eF9fYVg3bHpaR1k/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/CPT_brochure.jpg",
+                "title": "ANSI Process Pumps CPT Advantage",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2U015STk5MDNPQWs/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/DynamicSeal_E00530-Brochure.jpg",
+                "title": "Dynamically Sealed AHLSTAR™ Process Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2TDUtWmF5ZzlSdTQ/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/energy-savings.jpg",
+                "title": "Energy Saving through Internal Flows in Stock Tank",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2OWlOZUxKOXVUeG8/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/MBN_E00657-Multistage-Pump.jpg",
+                "title": "MBN Multistage Ring Section Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2dEJ3Y2RvaGloSXc/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/NewServiceKits_E00605..jpg",
+                "title": "Service Kits for Sulzer Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2bGQyQmZaM0xFa0E/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/slf.jpg",
+                "title": "Sulzer Pumps SALOMIX® SLF Agitator",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2bklMSDY1S3hzZ3M/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/slg.jpg",
+                "title": "Sulzer Pumps SALOMIX® SLG Agitator Gear Drive",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2dzktYVlqcE1iblk/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/SulzerASME_B73_CPT_Pump_ForThePetroleumIndustry_E00599.jpg",
+                "title": "Sulzer ASME B73.1 CPT Pump for the Petroleum Industry",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2b1F2ZjdnM3I4MVE/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/TES.jpg",
+                "title": "Sulzer Pumps SALOMIX™ Top Entry Spreader",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2MDlkMTBMai0td28/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/vertical-agitator-en.jpg",
+                "title": "Sulzer Pumps SALOMIX™ Vertical Agitator",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2bzlzY2hXTlNPLWs/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ServiceKits_AHLSTAR_en_E10047_12_20091.jpg",
+                "title": "Service Kits for AHLSTAR™ Process Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2YmRES2hQZ2hCVU0/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ServiceKits_AUP_en_E10041_12_2009.jpg",
+                "title": "Service Kits for AHLSTAR™ Process Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2TDBOZzNGRmViWk0/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ServiceKits_ZPP_en_E10042_12_2009.jpg",
+                "title": "Service Kits for AHLSTAR™ Process Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2b3RfQmc1UGN2SHc/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Shaft-Seal-Service-Kits-for-SL-Agitators.jpg",
+                "title": "Sulzer Pumps Shaft Seal Service Kits for SL Agitators",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2MHpLMTNkQlM4NWM/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/AHLSTAREndSuctionSingleStage_E10083.jpg",
+                "title": "AHLSTAR End Suction Single Stage Centrifugal Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2SnJVaDdienlmSjg/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/AluminaAndAluminumApplications_E00591.jpg",
+                "title": "Sulzer Pumps for Alumina and Aluminum Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2VlJJb0NPXzFnZFk/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/CastMaterials_E00510.jpg",
+                "title": "Cast Materials",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2dlBNMVB2Y0pQdlk/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Copper_E00645.jpg",
+                "title": "Sulzer Pumps for Copper Refining Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2Q0F5QUpTUWR3THM/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Cutting_Edge_Pumping_and_Mixing_Solutions_for_the_Food_Processing_Industry_E10274.jpg",
+                "title": "Cutting-Edge Pumping and Mixing Solutions for the Food Processing Industry",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2cDNZODhUc0hUSjQ/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Desalination_E00551.jpg",
+                "title": "Pumping Solutions for Desalination and Water Reuse",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2Z0ZVOGxMYTlKd28/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/HelicalTwisted_E00636.jpg",
+                "title": "Helical Twisted Roots Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2S1ItSW1HbFNIaFk/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Multinutrient_Fert_Appl_E00617.jpg",
+                "title": "Sulzer Pumps for Multinutrient Fertilizer Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2Y1hQZFVncDdjak0/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/NickelApplications_E10159.jpg",
+                "title": "Sulzer Pumps for Nickel Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2VjQ3bVIwNnBTZDg/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/Phosphoric_Acid_E00722.jpg",
+                "title": "Sulzer Pumps for Phosphoric Acid Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2b2JOWXcxOUZoOU0/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ProcessPumpsAndEquipmentForBiofuels_E10076.jpg",
+                "title": "Process Pumps Equipment for Biofuels Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2aEh6dE02cVJXeDA/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/PumpingAndMixingSpecialistsForTheCPI_en_E10272.jpg",
+                "title": "Pumping and Mixing Specialists for the Chemical Process Industry",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2cUMwTTEtZGZsNDQ/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/SalesProgram_E00543.jpg",
+                "title": "Sales Program of Pumps Equipment",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2TzVTZlBVUXQtbGs/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ServiceKitForSulzer_SNS_E10362.jpg",
+                "title": "Service Kits for SNS Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2SVBYVEZrd1JReGs/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/ServiceKitsForSPAndAgitators_E10046.jpg",
+                "title": "Service Kits for Sulzer Pumps and Agitators",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2ZlR6MllURzc4YkU/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/SIL_InlineSingleStageCentrifugalPumps_E10385.jpg",
+                "title": "SIL Inline Sungle Stage Centrifugal Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2Ylo2bUljRWgxRXM/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/SNS_SingleStageCentrifugalPumps_E10333.jpg",
+                "title": "SNS End Suction Single Stage Centrifugal Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2VDQ0dzRqWGhHQW8/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/SolutionsForMiningAndMetalsProcessing_E10132.jpg",
+                "title": "Pumping Solutions for Mining and Metals Processing",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2THlqU0pyWU55czg/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/STR_VerticalTurbinePump_E10130.jpg",
+                "title": "STR Vertical Turbine Pump",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2TEJLV01pWV9KTEE/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/SulzerNitricAcid_N12796.jpg",
+                "title": "Sulzer Pumps for Nitric Acid Applications",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2MlJQQXJEbnNXVlE/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/TB1_TBF1_TB2_Ready_fittedMechanicalSeals_E10240.jpg",
+                "title": "TB1, TB1F and TB2 Ready-fitted Mechanical Seals for AHLSTAR Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2Y3R0U3REQi1LTXc/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/TransformerOilCirculationPumpsVMOA_E10121.jpg",
+                "title": "VMOA Transformer Oil Circulation Pump",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2Zl9Vc1pIZ0NadWM/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/VerticalPumpRanges_E10010.jpg",
+                "title": "Vertical Pump Ranges",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2U21KSnFsVzkzZ2s/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/VMS_VerticalMultistagePumps_E10416.jpg",
+                "title": "VMS Vertical Multistage Pumps",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2WU9XTXpXN3l4WDA/view?usp=sharing"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2015/05/WastewaterTreatment_E10316.jpg",
+                "title": "Driving Innovation in Wastewater Treatment",
+                "url": "https://drive.google.com/file/d/0B9HMfqlO1qa2OWpzZ2RBYU16ZGM/view?usp=sharing"
+            }
+        ]
+    }
+}

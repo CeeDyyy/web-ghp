@@ -1,0 +1,34 @@
+{
+    "EN": {
+        "heading": "Product & Brochure",
+        "title": "Actiflo – High speed water clarifier",
+        "feature": "Feature:",
+        "features": [
+            "Cutting edge micro-sand technology help reducing coagulant consumption by 30%",
+            "Specially designed hydro cyclone for recycling of micro sand making sure minimal operating cost",
+            "Integrated PLC & SCADA"
+        ],
+        "list": [
+            "Up to 95% space saving compared to conventional flat bottom clarifier",
+            "Low operating cost with less coagulant consumption (~30% less coagulant consumption compared to other type of clarifier)",
+            "Plug & play completed package with onsite expert to optimize your operation",
+            "One of, if not the lowest operating cost clarifier on the market today"
+        ]
+    },
+    "TH": {
+        "heading": "Product & Brochure",
+        "title": "Actiflo – High speed water clarifier",
+        "feature": "Feature;",
+        "features": [
+            "Cutting edge micro-sand technology help reducing coagulant consumption by 30%",
+            "Specially designed hydro cyclone for recycling of micro sand making sure minimal operating cost",
+            "Integrated PLC & SCADA"
+        ],
+        "list": [
+            "Up to 95% space saving compared to conventional flat bottom clarifier",
+            "Low operating cost with less coagulant consumption (~30% less coagulant consumption compared to other type of clarifier)",
+            "Plug & play completed package with onsite expert to optimize your operation",
+            "One of, if not the lowest operating cost clarifier on the market today"
+        ]
+    }
+}

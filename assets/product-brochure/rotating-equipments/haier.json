@@ -1,0 +1,36 @@
+{
+    "EN": {
+        "heading": "Product & Brochure",
+        "title": "Haier",
+        "logo": "https://www.upkasia.com/wp-content/uploads/2017/10/Haier_logo_logotype_wordmark.png",
+        "list": [
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/10/1.png",
+                "title": "Chiller",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/10/2017-General-Catalogue-Chiller-version1.0-20160918..pdf"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/10/2.png",
+                "title": "MRV",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/08/Gas-turbine_Brochure-KAWASAKI..pdf"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Product & Brochure",
+        "title": "Haier",
+        "logo": "https://www.upkasia.com/wp-content/uploads/2017/10/Haier_logo_logotype_wordmark.png",
+        "list": [
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/10/1.png",
+                "title": "Chiller",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/10/2017-General-Catalogue-Chiller-version1.0-20160918..pdf"
+            },
+            {
+                "img": "https://www.upkasia.com/wp-content/uploads/2017/10/2.png",
+                "title": "MRV",
+                "url": "https://www.upkasia.com/wp-content/uploads/2017/08/Gas-turbine_Brochure-KAWASAKI..pdf"
+            }
+        ]
+    }
+}

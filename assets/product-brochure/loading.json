@@ -1,0 +1,56 @@
+{
+    "EN": {
+        "heading": "Product & Brochure",
+        "title": "Loading...",
+        "logo": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+        "list": [
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            },
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            },
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            },
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Product & Brochure",
+        "title": "Loading...",
+        "logo": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+        "list": [
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            },
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            },
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            },
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/6356/6356630.png",
+                "title": "Loading...",
+                "url": ""
+            }
+        ]
+    }
+}

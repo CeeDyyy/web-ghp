@@ -1,0 +1,58 @@
+{
+    "EN": {
+        "heading": "Product & Brochure",
+        "title": "Hydrotech – Continuous woven screen water filter",
+        "feature": "Feature:",
+        "features": [
+            "High quality woven screen with precise opening size",
+            "Continuous operation with automatic screen cleaning"
+        ],
+        "advantage": "User advantage",
+        "advantages": [
+            "Up to 83% space saving compared to gravity fed sand filter",
+            "Continuous operation  without stop at backwash",
+            "Plug & play package, fully constructed unit",
+            "Screen opening size from 40-250 microns"
+        ],
+        "list": [
+            {
+                "img": "https://cdn.asdfinc.io/media/13745/drum-filter-hdf2010_640.jpg?mode=crop&width=640px&quality=30",
+                "title": "Drum filter operation",
+                "url": "https://www.youtube.com/watch?v=xyjCR_5APqM"
+            },
+            {
+                "img": "https://d3pcsg2wjq9izr.cloudfront.net/files/114006/products/737674/114006_2_202012240713157280279_raw.jpg",
+                "title": "Disc filter operation",
+                "url": "https://www.youtube.com/watch?v=uMh_Cna32FE"
+            }
+        ]
+    },
+    "TH": {
+        "heading": "Product & Brochure",
+        "title": "Hydrotech – Continuous woven screen water filter",
+        "feature": "Feature:",
+        "features": [
+            "High quality woven screen with precise opening size",
+            "Continuous operation with automatic screen cleaning"
+        ],
+        "advantage": "User advantage",
+        "advantages": [
+            "Up to 83% space saving compared to gravity fed sand filter",
+            "Continuous operation  without stop at backwash",
+            "Plug & play package, fully constructed unit",
+            "Screen opening size from 40-250 microns"
+        ],
+        "list": [
+            {
+                "img": "https://cdn.asdfinc.io/media/13745/drum-filter-hdf2010_640.jpg?mode=crop&width=640px&quality=30",
+                "title": "Drum filter operation",
+                "url": "https://www.youtube.com/watch?v=xyjCR_5APqM"
+            },
+            {
+                "img": "https://d3pcsg2wjq9izr.cloudfront.net/files/114006/products/737674/114006_2_202012240713157280279_raw.jpg",
+                "title": "Disc filter operation",
+                "url": "https://www.youtube.com/watch?v=uMh_Cna32FE"
+            }
+        ]
+    }
+}
