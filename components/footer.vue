@@ -13,9 +13,9 @@
     </div>
 
     <div class="pt-0 text-caption">
-      28/2 Nimitmai Rd., Minburi, Minburi, Bangkok, 10510, Thailand
+      {{ contact.location.contents[1] }}
       <br />
-      Tel: (+662) 914-7984 Fax: (+662) 914-7985
+      {{ contact.phone.contents[1] }}
     </div>
 
     <v-divider></v-divider>
@@ -25,7 +25,10 @@
 </template>
 
 <script>
+import Contact from "/assets/contact.json";
+import { useLanguagesStore } from "/pages/stores/languages";
 export default {
+  name: "Footer",
   data: () => ({
     icons: [
       {
@@ -38,6 +41,30 @@ export default {
       },
       { icon: "mdi-account", url: "www.upkinter.com/about/" },
     ],
+    contact: Contact.EN,
+    language: useLanguagesStore(),
   }),
+  computed: {
+    getLng() {
+      return this.language.$state.language;
+    },
+  },
+  watch: {
+    getLng(newValue) {
+      if (newValue == "EN") {
+        this.contact = Contact.EN;
+      } else {
+        this.contact = Contact.TH;
+      }
+    },
+  },
+  mounted() {
+    if (this.$route.params.language == "en") {
+      this.contact = Contact.EN;
+    }
+    if (this.$route.params.language == "th") {
+      this.contact = Contact.TH;
+    }
+  },
 };
 </script>
