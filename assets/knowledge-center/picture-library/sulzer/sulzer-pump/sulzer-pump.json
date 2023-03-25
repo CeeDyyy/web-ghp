@@ -1,0 +1,122 @@
+{
+    "EN": {
+        "title": "Knowledge Center",
+        "contents": {
+            "title": "SULZER Pump",
+            "list": [
+                {
+                    "title": "Axially split pumps",
+                    "url": "/axially-split-pumps"
+                },
+                {
+                    "title": "Drainage center-line pumps",
+                    "url": "/drainage-center-line-pumps"
+                },
+                {
+                    "title": "Drainage pumps",
+                    "url": "/drainage-pumps"
+                },
+                {
+                    "title": "Firewater pumps",
+                    "url": "/firewater-pumps"
+                },
+                {
+                    "title": "High-lift centrifugal pumps HPH and HPL",
+                    "url": "/high-lift-centrifugal-pumps-hph-and-hpl"
+                },
+                {
+                    "title": "Multiphase pumps",
+                    "url": "/multiphase-pumps"
+                },
+                {
+                    "title": "Progressing cavity pumps",
+                    "url": "/progressing-cavity-pumps"
+                },
+                {
+                    "title": "Radial split pumps",
+                    "url": "/radial-split-pumps"
+                },
+                {
+                    "title": "Ring section pumps",
+                    "url": "/ring-section-pumps"
+                },
+                {
+                    "title": "Single stage centrifugal pumps",
+                    "url": "/single-stage-centrifugal-pumps"
+                },
+                {
+                    "title": "Sludge pumps",
+                    "url": "/sludge-pumps"
+                },
+                {
+                    "title": "Slurry pumps",
+                    "url": "/slurry-pumps"
+                },
+                {
+                    "title": "Two stage pumps",
+                    "url": "/two-stage-pumps"
+                }
+            ]
+        }
+    },
+    "TH": {
+        "title": "สาระน่ารู้",
+        "contents": {
+            "title": "SULZER",
+            "list": [
+                {
+                    "title": "Axially split pumps",
+                    "url": "/axially-split-pumps"
+                },
+                {
+                    "title": "Drainage center-line pumps",
+                    "url": "/drainage-center-line-pumps"
+                },
+                {
+                    "title": "Drainage pumps",
+                    "url": "/drainage-pumps"
+                },
+                {
+                    "title": "Firewater pumps",
+                    "url": "/firewater-pumps"
+                },
+                {
+                    "title": "High-lift centrifugal pumps HPH and HPL",
+                    "url": "/high-lift-centrifugal-pumps-hph-and-hpl"
+                },
+                {
+                    "title": "Multiphase pumps",
+                    "url": "/multiphase-pumps"
+                },
+                {
+                    "title": "Progressing cavity pumps",
+                    "url": "/progressing-cavity-pumps"
+                },
+                {
+                    "title": "Radial split pumps",
+                    "url": "/radial-split-pumps"
+                },
+                {
+                    "title": "Ring section pumps",
+                    "url": "/ring-section-pumps"
+                },
+                {
+                    "title": "Single stage centrifugal pumps",
+                    "url": "/single-stage-centrifugal-pumps"
+                },
+                {
+                    "title": "Sludge pumps",
+                    "url": "/sludge-pumps"
+                },
+                {
+                    "title": "Slurry pumps",
+                    "url": "/slurry-pumps"
+                },
+                {
+                    "title": "Two stage pumps",
+                    "url": "/two-stage-pumps"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "EN": {
+        "title": "Knowledge Center",
+        "contents": {
+            "title": "Kumera",
+            "list": [
+                {
+                    "title": "Kumera Multi Stage Helical and Bevel-helical Gearboxes",
+                    "url": "/kumera-multi-stage-helical-and-bevel-helical-gearboxes",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_bevel_gearbox_cumpact_f-range_01.jpg"
+                },
+                {
+                    "title": "Kumera One Stage Helical Gearboxes",
+                    "url": "/kumera-one-stage-helical-gearboxes",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_one_stage_helical_gearbox_lx-range_01.jpg"
+                },
+                {
+                    "title": "One Stage Bevel Gearboxes",
+                    "url": "/one-stage-bevel-gearboxes",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_one_stage_bevel_gearbox_ka.jpg"
+                },
+                {
+                    "title": "Girth Gear Drives",
+                    "url": "/girth-gear-drives",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_active_drive_gearbox_01.jpg"
+                },
+                {
+                    "title": "Kumera Vertical Shaft Gearboxes",
+                    "url": "/kumera-vertical-shaft-gearboxes",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_heavy_duty_agitator_gearbox_e-range_02.jpg"
+                },
+                {
+                    "title": "Worm gearboxes",
+                    "url": "/worm-gearboxes",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_helical_worm_gearbox_covera-range_01.jpg"
+                },
+                {
+                    "title": "Custom Built Gearboxes",
+                    "url": "/custom-built-gearboxes",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_steelmill_taylor_made_gearbox_01.jpg"
+                },
+                {
+                    "title": "Guard Gear – Online Condition Monitoring",
+                    "url": "/guard-gear-online-condition-monitoring",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/thumb_kumera-guardgear4-0.jpg"
+                }
+            ]
+        }
+    },
+    "TH": {
+        "title": "สาระน่ารู้",
+        "contents": {
+            "title": "Kumera",
+            "list": [
+                {
+                    "title": "Kumera Multi Stage Helical and Bevel-helical Gearboxes",
+                    "url": "/kumera-multi-stage-helical-and-bevel-helical-gearboxes",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_bevel_gearbox_cumpact_f-range_01.jpg"
+                },
+                {
+                    "title": "Kumera One Stage Helical Gearboxes",
+                    "url": "/kumera-one-stage-helical-gearboxes",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_one_stage_helical_gearbox_lx-range_01.jpg"
+                },
+                {
+                    "title": "One Stage Bevel Gearboxes",
+                    "url": "/one-stage-bevel-gearboxes",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_one_stage_bevel_gearbox_ka.jpg"
+                },
+                {
+                    "title": "Girth Gear Drives",
+                    "url": "/girth-gear-drives",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_active_drive_gearbox_01.jpg"
+                },
+                {
+                    "title": "Kumera Vertical Shaft Gearboxes",
+                    "url": "/kumera-vertical-shaft-gearboxes",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_heavy_duty_agitator_gearbox_e-range_02.jpg"
+                },
+                {
+                    "title": "Worm gearboxes",
+                    "url": "/worm-gearboxes",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_helical_worm_gearbox_covera-range_01.jpg"
+                },
+                {
+                    "title": "Custom Built Gearboxes",
+                    "url": "/custom-built-gearboxes",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/kumera_steelmill_taylor_made_gearbox_01.jpg"
+                },
+                {
+                    "title": "Guard Gear – Online Condition Monitoring",
+                    "url": "/guard-gear-online-condition-monitoring",
+                    "img": "https://www.upkasia.com/wp-content/uploads/2018/08/thumb_kumera-guardgear4-0.jpg"
+                }
+            ]
+        }
+    }
+}

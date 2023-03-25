@@ -1,0 +1,82 @@
+{
+    "EN": {
+        "title": "Knowledge Center",
+        "contents": {
+            "title": "SULZER",
+            "list": [
+                {
+                    "title": "Sulzer pump",
+                    "url": "/sulzer-pump"
+                },
+                {
+                    "title": "Agitators, dynamic mixers",
+                    "url": "/agitators-dynamic-mixers"
+                },
+                {
+                    "title": "Tower management systems",
+                    "url": "/tower-management-systems"
+                },
+                {
+                    "title": "Compressors and aeration",
+                    "url": "/compressors-and-aeration"
+                },
+                {
+                    "title": "Medium consistency products",
+                    "url": "/medium-consistency-products"
+                },
+                {
+                    "title": "Submersible mixers",
+                    "url": "/submersible-mixers"
+                },
+                {
+                    "title": "Pump and lifting station accessories",
+                    "url": "/pump-and-lifting-station-accessories"
+                },
+                {
+                    "title": "Lube oil systems – API 614",
+                    "url": "/lube-oil-systems-api-614"
+                }
+            ]
+        }
+    },
+    "TH": {
+        "title": "สาระน่ารู้",
+        "contents": {
+            "title": "SULZER",
+            "list": [
+                {
+                    "title": "ปั๊ม Sulzer",
+                    "url": "/sulzer-pump"
+                },
+                {
+                    "title": "Agitators, dynamic mixers",
+                    "url": "/agitators-dynamic-mixers"
+                },
+                {
+                    "title": "Tower management systems",
+                    "url": "/tower-management-systems"
+                },
+                {
+                    "title": "Compressors and aeration",
+                    "url": "/compressors-and-aeration"
+                },
+                {
+                    "title": "Medium consistency products",
+                    "url": "/medium-consistency-products"
+                },
+                {
+                    "title": "Submersible mixers",
+                    "url": "/submersible-mixers"
+                },
+                {
+                    "title": "Pump and lifting station accessories",
+                    "url": "/pump-and-lifting-station-accessories"
+                },
+                {
+                    "title": "Lube oil systems – API 614",
+                    "url": "/lube-oil-systems-api-614"
+                }
+            ]
+        }
+    }
+}

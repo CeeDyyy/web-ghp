@@ -1,0 +1,104 @@
+{
+    "EN": {
+        "title": "Knowledge Center",
+        "contents": [
+            {
+                "title": "SULZER",
+                "url": "/sulzer",
+                "list": [
+                    {
+                        "title": "Dynamic Seal",
+                        "url": "/sulzer/dynamic-seal"
+                    },
+                    {
+                        "title": "Sulzer Open Impeller",
+                        "url": "/sulzer/sulzer-open-impeller"
+                    },
+                    {
+                        "title": "Self-priming pumps",
+                        "url": "/sulzer/self-priming-pumps"
+                    }
+                ]
+            },
+            {
+                "title": "Liquid Property",
+                "url": "/liquid-property",
+                "list": [
+                    {
+                        "title": "Glycerine_Overview",
+                        "url": "/liquid-property"
+                    },
+                    {
+                        "title": "Methanol_Overview",
+                        "url": "/liquid-property"
+                    }
+                ]
+            },
+            {
+                "title": "Picture Library",
+                "url": "/picture-library",
+                "list": [
+                    {
+                        "title": "SULZER",
+                        "url": "/picture-library/sulzer"
+                    },
+                    {
+                        "title": "Kumera",
+                        "url": "/picture-library/kumera"
+                    }
+                ]
+            }
+        ]
+    },
+    "TH": {
+        "title": "สาระน่ารู้",
+        "contents": [
+            {
+                "title": "SULZER",
+                "url": "/sulzer",
+                "list": [
+                    {
+                        "title": "Dynamic Seal",
+                        "url": "/sulzer/dynamic-seal"
+                    },
+                    {
+                        "title": "Sulzer Open Impeller",
+                        "url": "/sulzer/sulzer-open-impeller"
+                    },
+                    {
+                        "title": "Self-priming pumps",
+                        "url": "/sulzer/self-priming-pumps"
+                    }
+                ]
+            },
+            {
+                "title": "คุณสมบัติของเหลว",
+                "url": "/liquid-property",
+                "list": [
+                    {
+                        "title": "กลีเซอรีน - ภาพรวม",
+                        "url": "/liquid-property"
+                    },
+                    {
+                        "title": "เมทานอล - ภาพรวม",
+                        "url": "/liquid-property"
+                    }
+                ]
+            },
+            {
+                "title": "คลังรูปภาพ",
+                "url": "/picture-library",
+                "list": [
+                    {
+                        "title": "SULZER",
+                        "url": "/picture-library/sulzer"
+                    },
+                    {
+                        "title": "Kumera",
+                        "url": "/picture-library/kumera"
+                    }
+                ]
+            }
+        ]
+    }
+}
