@@ -1,5 +1,5 @@
 <template>
-  <BannerVue :title="info.title" />
+  <BannerVue :title="info.heading" />
   <NuxtLayout>
     <div class="d-flex justify-center mb-4">
       <v-img

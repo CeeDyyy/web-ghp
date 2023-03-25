@@ -1,5 +1,5 @@
 <template>
-  <BannerVue :title="info.title" />
+  <BannerVue :title="info.heading" />
   <NuxtLayout>
     <h1 class="d-flex justify-center text-h4 font-weight-thin mb-4">
       {{ info.title }}
@@ -77,10 +77,10 @@ export default {
   },
   mounted() {
     if (this.$route.params.language == "en") {
-      this.info = Data.EN;
+      this.info = this.Data.EN;
     }
     if (this.$route.params.language == "th") {
-      this.info = Data.TH;
+      this.info = this.Data.TH;
     }
   }
 };
